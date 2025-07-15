@@ -1,0 +1,899 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/228505779
+
+Matching and Stretching Learners‟ Learning Styles
+Article in Journal of Language Teaching and Research · April 2011
+DOI: 10.4304/jltr.2.2.285-294
+
+CITATIONS
+
+READS
+
+44
+
+4,474
+
+1 author:
+Luu Trong Tuan
+Swinburne University of Technology
+146 PUBLICATIONS 5,456 CITATIONS
+SEE PROFILE
+
+All content following this page was uploaded by Luu Trong Tuan on 22 July 2017.
+The user has requested enhancement of the downloaded file.
+
+ISSN 1798-4769
+Journal of Language Teaching and Research, Vol. 2, No. 2, pp. 285-294, March 2011
+© 2011 ACADEMY PUBLISHER Manufactured in Finland.
+doi:10.4304/jltr.2.2.285-294
+
+Matching and Stretching Learners‟ Learning
+Styles
+Luu Trong Tuan
+National University of Ho Chi Minh City, Vietnam
+Email: luutrongtuan@vnn.vn
+Abstract—Creating and sustaining learners’ active involvement in learning requires an understanding of their
+learning style preferences. Through a questionnaire survey and participant observations, this study sought to
+explore the extent to which teachers understand their students’ language learning styles as well as teacherstudent style mismatches in Vietnamese EFL classrooms, which have brought about students’ dissatisfaction
+and low performance. The study found Vietnamese EFL learners more intuitive than sensing, more visual
+than verbal, more active than reflective, and more sequential than global. After matching the distribution of
+learning styles, this action research applied the multi-style teaching strategies suggested by Kolb (1984) and
+Felder (1993) to stretch students’ learning style patterns. While guiding students into certain learning styles,
+teachers had to guid themselves into the teaching styles they are not accustomed to. The benefits of style
+matching and stretching were confirmed beside the failures in the class where adult learners failed to respond
+to style stretching strategies and in the class where the teacher failed to respond to students’ learning styles.
+These failures remind teachers that other learner factors, teacher factors, and learning environment factors
+always exist beside learning and teaching styles as promoters or hinderers to style matching and stretching
+strategies.
+Index Terms—learning style, teaching style, style matching strategies, style stretching strategies
+
+I. INTRODUCTION
+Vietnam‟s open-door policy since 1989 has exposed Vietnamese EFL (English as a Foreign Language) teachers in
+Vietnam to the current English language teaching trends. Teachers excitedly brought back from seminars and
+workshops communicative, learner-centered teaching methods to apply in their classrooms, but soon they received
+resistance from their students. Nonetheless, students‟ resistance was passively demonstrated by increased dropout rates.
+The passive resistance can be explicated by the fact that Confucianism‟s influence remains to discourage students from
+challenging their authorities or seniors (O‟Sullivan, 1997, p. 51). But how did teachers of new teaching methods
+interpret their students‟ resistance? One of the interpretations most teachers share was that students felt too secure in
+old-fashioned grammar-translation methods to risk changes. Certain teachers alleged that students were looking for
+something rather than knowledge of English in EFL classrooms. Some of these teachers also felt more secure by
+returning to a lecturer-fronted approach. A few years later, it was found that students‟ passive resistance became voiced.
+Schools started to receive complaints from students against teachers of both traditional and modern methods. Schools‟
+common action is to ask „problem teachers‟ to adjust their methods. Teachers reluctantly resorted to a communicative,
+learner-centered approach again for help. However, did teachers correctly understand the communicative, learnercentered approach, which takes into account learners‟ needs, goals, interests, learning styles and strategies? Renandya,
+Lim, Leong, and Jacobs (2001), as lecturers at SEAMEO Regional Language Centre (SEAMEO RELC) and in their
+other teaching experiences, have worked with language teachers from around Southeast and Northeast Asia and found
+their understandings of communicative approaches differ widely (Renandya et al., 2001). Long and Sato (1983)
+reported the same phenomenon in a study with ESL (English as a Second Language) teachers in the U.S., and this
+finding was confirmed by Rollman (1994) who did a study with foreign language teachers of German in Canada. Even
+though most Vietnamese EFL teachers understand the approach correctly, a number of them „ignore‟ the learner
+element of the approach.
+The word „ignore‟ is highlighted since numerous teachers understand the position of the learner element in their
+teaching strategies. Nevertheless, they do not want to explore it due to such factors as time constraints, energy
+insufficiency (due to teaching several hours a day), brief and unrepeated teaching of a particular class, and pride in their
+degrees or ranks. It is their „pride‟ that a number of teachers even take students‟ resistance as an offence, but teaching
+students without understanding them is a greater offence like doctors treating patients without investigating their
+medical histories.
+Certain teachers contend that complaints usually hail from students of a low language proficiency level, who prefer
+easy-to-understand grammar-translation methods in the classroom. Tobias (1990) gives learners an understanding look:
+“They‟re not dumb, they‟re different”. Irvine and York (1995) echo that sentiment: “[A]ll students are capable of
+learning, provided the learning environment attends to a variety of learning styles” (p. 494). According to Keefe (1987),
+
+© 2011 ACADEMY PUBLISHER
+
+286
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+educators must learn to base programs on the differences that exist among students rather than on the assumption that
+everyone learns the same way. Numerous teachers think of students as a featureless mass, but it is growing belief that
+the teacher, in making decisions regarding the type of activities to conduct in a language classroom, should take into
+account such learner diversities. In this respect, Corder (1977) writes:
+In the end successful language "teaching-learning" is going to be dependent upon the willing co-operation of the
+participants in the interaction and an agreement between them as to the goals of their interaction. Co-operation cannot
+be imposed but must be negotiated (p. 13).
+If we truly believe that considering subjective preferences felt by the learner is crucial for effective language learning,
+then some kind of negotiation is needed between the participants, in our case, teachers and students. Information has to
+be exchanged about roles and expectations, both teachers' and learners' awareness of each other's needs and resources
+has to be raised and compromises have to be reached between what learners expect and want and what the teacher feels
+he/she can and ought to provide (Brindley, 1989, p. 73). Even when compromise can not be reached, we must teach
+students the way they learn (Dunn and Dunn, 1978).
+Teachers „ignore‟ learners‟ „ways‟ (merely 33.9% of EFL teachers in Asia were keen on finding out students‟
+learning styles according to Renandya, Lim, Leong, and Jacobs, 2001), and so do their schools. By using placement
+tests to look into students‟ language proficiency level, schools just do the academic part, not the sociological part of
+their job. Information about learning styles can help schools become more sensitive to the differences students bring to
+the classroom. Language schools in Vietnam have not systematically diagnosed students‟ learning styles to provide
+teachers with the class‟s learning style profile before they enter the classroom or even select teachers with the teaching
+styles suited for a particular class. Thus, they do not understand their students until problems happen to compel them to
+substitute teachers.
+Lack of co-operation resulting from lack of understanding learners‟ learning styles makes teaching in the EFL
+classrooms in Vietnam a heavy, strenuous job. This study is done on behalf of other EFL teachers in Vietnam who
+desire to surmount this professional problem to be lifelong teachers. The study is also intended to benefit my own
+interest for professional self-improvement by exploring areas of my academic concern, as Hyman and Rosoff (1987, p.
+185) suggest teachers should also become students of teaching.
+The study was guided by the three ensuing research questions:
+1. How much do teachers understand their students‟ language learning styles?
+2. What teaching strategies can be applied to match the distribution of learning styles in EFL classrooms in Vietnam?
+3. To what extent do these strategies work in the classrooms?
+II. LITERATURE REVIEW
+A. Why do we Need to Understand Learners’ Learning Styles?
+The education literature suggests that learners who are actively immersed in the learning process will be more likely
+to achieve success (Dewar, 1999). Once learners are actively involved in their own learning process they commence to
+feel empowered and their personal achievement and self-direction levels rise.
+A key to getting and keeping learners actively involved in learning lies in understanding learning style preferences,
+which can impact a learner's performance (Dewar, 1999). Gregorc and Ward‟s (1977) research demonstrated this:
+The instructional materials and techniques used by teachers have a direct effect on many students . . . If the approach
+fits the preferred learning mode, the learner usually reacted favorably. If, on the other hand, the methods were
+mismatched, the student “worked hard to learn”, “learned some and missed some material”, or “tuned out.” (p. 5)
+A learner‟s style of learning, if accommodated, can result in enhanced attitudes toward learning and an increase in
+thinking skills, academic achievement, and creativity (Irvine & York, 1995).
+Carbo and Hodges (1988) contend that “matching students‟ learning styles with appropriate instructional strategies
+improves their ability to concentrate and learn” (p. 48). If mismatches transpire, learners tend to be bored and
+inattentive in class, do poorly on tests, get discouraged about the course, and may conclude that they are no good at the
+subject of the course and give up (Felder & Silverman, 1988). Teachers, confronted by low test grades, unresponsive or
+hostile classes, poor attendance, and dropouts, may become overly critical of their learners (making things even worse)
+or begin to question their own competence as teachers.
+Talmadge and Shearer (1969) have determined that learning styles do exist. Their study shows that the characteristics
+of the content of a learning experience are a critical factor affecting relationships that exist between learner
+characteristics and instructional methods. Reiff (1992) alleges that styles influence how learners learn, how teachers
+teach, and how they interact. Each person is born with certain preferences toward particular styles, but these preferences
+are influenced by culture, experience, and development. Keefe (1987) asserts that perceptual style is a matter of learner
+choice, but that preference develops from infancy almost subconsciously. A teacher alert to these preferences can
+arrange for flexibility in the learning environment.
+Thus Keefe (1991) portrays learning style as both a learner characteristic and an instructional strategy. As a learner
+characteristic, learning style is an indicator of how a learner learns and likes to learn. As an instructional strategy, it
+informs the cognition, context and content of learning.
+a. What is learning style?
+© 2011 ACADEMY PUBLISHER
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+287
+
+Learning style is
+1. "the complex manner in which, and conditions under which, learners most efficiently and most effectively perceive,
+process, store, and recall what they are attempting to learn" (James and Gardner, 1995, p. 20).
+2. "an individual‟s characteristic way of processing information, feeling, and behaving in learning situations" (Smith
+as cited in Merriam and Caffarella, 1991, p. 176).
+b. Dimensions of Learning Styles
+According to Felder and Silverman (1988), the learning style dimensions may be defined in terms of the answers to
+the following four questions:
+1. What type of information does the learner preferentially perceive: sensory–sights, sounds, physical sensations, or
+intuitive – memories, ideas, insights?
+2. Through which modality is sensory information most effectively perceived: visual – pictures, diagrams, graphs,
+demonstrations, or verbal – written and spoken words and formulas?
+3. How does the learner prefer to process information: actively–through engagement in physical activity or discussion,
+or reflectively – through introspection?
+4. How does the learner progress toward understanding: sequentially–in a logical progression of small incremental
+steps, or globally–in large jumps, holistically?
+Dimensions of learning styles are summarized in Table 1.
+
+Perception
+Sensing
+prefer facts, data, and
+experimentation
+Intuitive
+prefer principles, concepts,
+and theories
+
+TABLE 1.
+DIMENSIONS OF LEARNING STYLES
+Input
+Processing
+Visual
+Active
+prefer pictures, diagrams,
+learn best by doing something
+charts
+physical with the information
+Verbal
+Reflective
+prefer spoken or written
+do the processing in their
+explanations
+heads
+
+Understanding
+Sequential
+easily make linear connections
+between individual steps
+Global
+must get “big picture” before
+individual pieces fall into place
+
+c. Dynamic nature of learning styles: implications for teachers‟ actions
+Every language learner has a particular learning style, and even within one learner, style is not a static phenomenon
+that operates in a certain direction all the time (Ehrman, 1996). The literature of educational psychology suggests that
+learning styles should be viewed as learners‟ actions rather than abilities, therefore even if a teacher can assess a
+learner‟ learning style today, next week it might become different (Hyman & Rosoff, 1987, pp. 178-190). Given their
+dynamic nature, styles need to be handled in more selected ways so as to help identify merely the variables which best
+serve our need to understand the learners‟ participation problems and resolve them. For this purpose, one way of
+describing learning styles, which the literature sometimes uses, is to view them as learners‟ preferences or „comfort
+zones‟, implying the educational conditions under which learners learn best (Gibson & Chandler, 1988, p. 258).
+Information about learning style can serve as a guide in designing teaching strategies that match or mismatch
+learners' styles, depending on the teacher's purpose. Matching is particularly appropriate in working with poorly
+prepared learners and with new learners, as the most attrition occurs in those situations. In other instances, some
+mismatching may be appropriate so that learners' experiences help them learn in new ways and to bring into play ways
+of thinking and aspects of the self not previously developed. Any mismatching, however, should be done with
+sensitivity and consideration for learners, because the experience of discontinuity can be very threatening, particularly
+when learners are weak in these areas. Knowledge of learning style can thus help teachers design teaching strategies
+appropriate for learners in terms of matching or mismatching.
+B. From this Understanding, why do we Focus on Teaching Strategies rather than Learning Strategies?
+1. What are teaching strategies?
+In Gagne‟s (1985) view, teaching strategies are conditions required for the acquisition of knowledge and skill. From
+a framework by Ellis (1994), teaching strategies are looked upon as any problem-oriented actions taken by the teacher
+during the classroom process to surmount specific obstacles to learner performance. Such actions must be conscious and
+deliberate, deployed by the teacher with cautious attention, which can result in both linguistic and non-linguistic
+behavior.
+2. Why do we focus on teaching strategies rather than learning strategies?
+Compared to learning, teaching represents a dimension of facility that is easier for teachers to keep in check. As
+Hyman and Rosoff (1987, p. 185) suggest, the maximum level of control the teacher could have in the classroom is the
+control over his or her own actions – no matter what the learners‟ learning styles and no matter what the subject matter.
+Moreover, before we teachers could blame learners for not co-operating with us, we have to demonstrate a realistic
+example of good will by having the courage to reflect on the way we teach. We can always learn from the behavior
+modification approach that to change learners‟ behavior we must first change the way in which we have tended to
+respond to this behavior (Fontana 1994: 63-64).
+C. Benefits of Classroom Interaction
+
+© 2011 ACADEMY PUBLISHER
+
+288
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+Gibson and Chandler (1988, p. 160) have raised the awareness of the value, purpose and rationale of a more
+interactive classroom process. They encourage conscious and purposeful use of classroom contributions as a way of
+constructing and developing the lesson. Scarella and Oxford (1992) point out that “innate mechanisms do not work
+alone. If they did, students could learn English by themselves, without interacting with others. But students do not learn
+English alone” (p. 29). Learners‟ contributions also can serve as a foundation for the teacher to obtain information
+regarding their knowledge, understanding, and degree of agreement. A lack of such information in many cases might
+cause the teacher to develop the lesson in an undesirable direction that fails to meet learners‟ interests, preferences,
+concerns, and needs.
+Understanding learners  Applying appropriate teaching strategies  Increasing interaction  Further
+understanding learners  Fixing mismatched expectations
+For this reason, learners should give the teacher opportunities to decide how to adjust and develop the lesson to best
+benefit them. As suggested by Harker (1988, p. 223), it is through the teacher-learner communication process that
+expectations are created for how the lesson needs to be organised. The absence of this process can explicate several of
+the reasons why the expectations of teacher and learners often clash. Good and Brophy (1987, pp. 296-303) refer to
+such mismatched expectations as „self-fulfilling effects,‟ which are destructive attitudes resulting from a lack of
+negotiation. For a resolution, Harker (1988, p. 223) points out that understanding classroom events requires interpreting
+events within the frames developed by learners and teachers through interaction in the lesson and through their history
+of interaction in similar lessons.
+III. RESEARCH METHODOLOGY
+A. Participants
+168 students of eight intermediate and upper-intermediate EFL classes and twelve teachers who taught these classes
+at the Center for Foreign Languages of the University of Social Sciences and Humanities in Ho Chi Minh City (USSHHCMC) were invited to participate in the study.
+1. Student sample
+Although the Center for Foreign Languages offer classes of three proficiency levels ranging from elementary (Level
+A) to upper-intermediate (Level C) as described in Table 2, the selection of student sample focused on courses of
+intermediate (B) and low upper-intermediate proficiency levels (C1, C2) where conditions for a comprehensive
+investigation were found.
+
+Proficiency level
+Elementary
+(Level A)
+Intermediate
+(Level B)
+Upper-intermediate
+(Level C)
+
+TABLE 2.
+COURSES BY PROFICIENCY LEVELS
+Course length
+Estimated outcome level
+IELTS
+TOEFL PBT
+270 hours in six 10-week classes
+(A1-A6)
+3.5-4.0
+400
+270 hours in four 10-week classes
+(B1-B6)
+4.5-5.0
+450
+180 hours in four 10-week classes
+(C1-C4)
+5.5-6.0
+500
+
+TOEFL iBT
+30
+45
+60
+
+Students of intermediate and low upper-intermediate proficiency levels have the extensive history of learning styles
+which may differ from their present learning styles. Willing (1988) and other researchers have found that learners will
+often adapt their style to the learning situation and so learners of one style may display characteristics of another style at
+certain times. The exploration of factors that cause the transition from past to present learning styles, to some extent,
+helps realize the effectiveness of the teaching strategies students have received. Beginners with too brief history of
+classroom experience will probably limit in-depth exploration.
+Interaction reluctance may result from linguistic incompetence as learners struggle in dealing with English sounds
+and understanding of grammar patterns (Burns & Joyce, 1997, pp. 134-135). Thus, beginners‟ interaction shyness more
+likely due to minimal proficiency level can be misconstrued as a mismatch between learning and teaching styles.
+Since the study is the repeated intervention in a sample, the consistency of the participants is required. Administrative
+policy at our Center is that the whole class move to next level when they pass a proficiency level, which helps sustain
+the consistency of the sample. Due to substantial change of students from a level to another in elementary proficiency
+levels resulting from high dropout rates of beginners with low intrinsic motivation, and due to substantial class
+shrinkage of top proficiency levels caused by challenge of language, students of intermediate and low upperintermediate level are preferred for sampling.
+2. Teacher sample
+The teacher sample comprised eight Vietnamese EFL teachers, five females and three males, who had been teaching
+at the Center for Foreign Languages of USSH-HCMC. The average age was 39.08 years ranging from 29 to 51 years
+old. They were teaching full-time at the tertiary levels of education, of whom six were teaching at public universities
+and two at private universities. Four teachers held BA degrees in language education as their highest degree, with the
+rest earning MA degrees in TESOL, two from Vietnamese universities and two from Australian universities. The
+© 2011 ACADEMY PUBLISHER
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+289
+
+participants varied greatly in terms of the length of their teaching experience. The mean years of teaching experience
+was 9.88 with a standard deviation 5.27 from the mean.
+The primary reason for this selection was the teachers‟ frequent working with students of intermediate and upperintermediate proficiency levels, at the Center as well as at their universities. Their understanding of their students‟
+learning styles was explored in the survey, and their intuitive understanding of this proficiency group‟s background and
+behavior was shared for data collection at the first phase of the study and classroom remedy at its later phase.
+The first participants were sought through my close colleagues. These participants, in turn connected me with other
+participants, and this process continued until my relationship with twelve teachers of twelve classes of intermediate and
+low upper-intermediate levels was well-established. This snowball sampling method (Robson, 1993) helped obtain
+voluntary co-operation from participants.
+B. Procedure
+The study consisted of three phases
+Phase 1: Collecting data from learning styles questionnaires
+A questionnaire survey was intended to explore the distribution of learning styles among the students of twelve
+intermediate and low upper-intermediate EFL classes. The questionnaire comprising 44 closed-ended questions
+suggested by Solomon and Felder (1999) was reproduced in Vietnamese and delivered to the students. Class
+observation recorded through field-notes was conducted in these eight classes to measure the level of teacher-student
+style matching.
+Phase 2: Working out teaching strategies
+Discussions with teachers of these involved classes on the mismatch between their teaching styles and their students‟
+learning styles found in the questionnaire surveys and class observations. A set of revised teaching strategies which
+cater to students‟ learning styles were collaboratively worked out predicated on the distribution of learning styles of
+each class.
+Phase 3: Experimenting with the teaching strategies and collecting feedback from both teachers and students.
+Collaboration work with the involved teachers was conducted to incorporate revised teaching strategies into their
+lesson plans and experiment with them in these eight classrooms. Such elements as teachers, students, and teaching
+material were preserved in the classroom setting to focus on the only variable, revised teaching strategies.
+Repetition of classroom observation on the same classes, under the revised teaching strategies, to measure the
+enhancement of student interaction, was recorded by an observation instrument suggested by Wajnryb (1993).
+Discussions with teachers and students were held to collect their feedback on the efficiency of revised teaching
+strategies.
+IV. FINDINGS AND DISCUSSION
+Phase 1: Collecting data from learning styles questionnaires
+Of 168 questionnaires delivered to the students to survey their learning styles, 154 were returned in completed form
+(92% response rate). The distribution of learning styles among these students is displayed in Table 3.
+TABLE 3:
+LEARNING STYLE DISTRIBUTION (N = 154)
+Dimensions of learning styles
+n
+%
+Perception
+Sensing
+65
+42
+Intuitive
+89
+58
+Input
+Visual
+102
+66
+Verbal
+52
+34
+Processing
+Active
+87
+56
+Reflective
+67
+44
+Understanding
+Sequential
+114
+74
+Global
+40
+26
+
+Some mismatches between learning styles and teaching styles were found when class observations showed that six
+teachers (75%) are using traditional lecture methods with intuitive, verbal, reflective and sequential characteristics, and
+two teachers (25%) are applying visual and global instructional strategies of modern approaches (Table 4).
+TABLE 4:
+MISMATCHES BETWEEN LEARNING STYLES AND TEACHING STYLES
+Learning styles
+Lecture approaches
+Modern approaches
+(six teachers)
+(two teachers)
+Intuitive (58%)
+Intuitive
+Intuitive
+Visual (66%)
+Verbal
+Visual
+Active (56%)
+Reflective
+1 Reflective, 1 Active
+Sequential (74%)
+Sequential
+Global
+
+Phase 2: Working out teaching strategies
+
+© 2011 ACADEMY PUBLISHER
+
+290
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+Prior to the collaborative work with these teachers on teaching strategies to create teacher-student style matching and
+nurture style stretching, the extended discussions with them were made to explore how these learning styles have been
+shaped as well as determine which styles are more dynamic and flexible, and which are more static and identity forming.
+Intuitive learning style found in 58% of the students, more than the 40% found for a sample of 18,592 general college
+students (Myers & McCaulley, 1985) was, according to the involved teachers of this study, inherited from their
+language teachers, most of whom are intuitors. As Moody (1988) notes, language is by its nature symbolic, which
+would tend to make it more attractive to intuitors than to the more concrete and literal-minded sensors.
+The majority of the students chose „visual‟ as their preferred perceptual input modality (66%). The similar result was
+found by Reid (1987) in his survey of sensory learning preferences of Korean, Chinese and Japanese students. The
+involved teachers believe that it is book-centered and blackboard-centered method that has formed this learning style
+for decades. The classroom practice, in which students‟ speaking the target language is primarily choral reading (visualverbal) (Song, 1995), and their listening to the target language is accompanied by scanning the printed text (visualauditory), makes students‟ perceptual channels strongly visual (text and blackboard), with most auditory input closely
+tied to the written text. Moreover, the involved teachers brought the interesting feedback from their experimental
+classes that college-age students, the „video game‟ generation, have grown up with televisions, movies, videos, and
+video games, and developed skills in interpreting visually displayed data. Thus, despite their intuitive learning style, the
+students have been carrying a latent sensing learning style waiting to manifest itself under encouraging conditions.
+Although more active learners than reflective learners were found in the student sample, surprisingly, processing
+styles proved to be dependent on age groups (Table 5).
+
+Age groups
+Active
+Reflective
+
+TABLE 5:
+CORRELATION BETWEEN PROCESSING STYLES AND AGE GROUPS
+Under 15
+15 – 25
+26 – 35
+36 – 45
+n
+%
+n
+%
+n
+%
+n
+15
+88
+56
+60
+10
+45
+5
+2
+12
+37
+40
+12
+55
+8
+
+%
+38
+62
+
+Over 45
+n
+1
+8
+
+%
+11
+89
+
+As displayed in Table 5, younger learners tend to be active, and older learners tend to be reflective. This result can be
+interpreted in terms of teaching method, teaching material, and impact of multimedia. Older learners bring to the
+language classes the „ways‟ they used to be taught at high school years back, in which they show much reflection in
+preparation for production, as Condon (1984) observed in Japanese students. Like most Asian adults, they are
+concerned for precision (Oxford et al., 1992), and reluctant to „stand out‟ by expressing their views, particularly if this
+might be perceived as expressing public disagreement (Song, 1995). Older students are also found to be accustomed to
+the traditional approach tasks in their high school language textbooks which largely require learners to reflect
+thoroughly. Contrarily, younger learners have been exposed to both traditional (in their high schools) and modern (in
+language centers) teaching methods since they started to learn English. More fortunately, they are exposed to
+communicative tasks of both high school language textbooks and language center materials. The most important factor
+that makes younger learners „active‟ is that they have grown up in the world of multimedia full of interactive activities,
+which allow them little time to reflect.
+The emphasis on rote memory in both oral and written tests in primary schools in Vietnam shapes sequential learning
+style in primary students, with which they go through years of high school and university. Their phobia to miss details
+makes them detail- and precision-oriented. Grammar-translation method in high schools also contributes to the
+development of sequential learning style. Many EFL teachers explain the entire text by breaking it down into sentences,
+and analysing new words and grammar structures of these sentences. Some EFL teachers even employ word-by-word
+translation to explain a written text. However, the discussions with some teachers of natural sciences such as
+mathematics and information technology (IT) showed that they employ a top-down approach to guide students from the
+overall itinerary of the solution to each section or module in a logical order. Therefore, students are not completely
+encased in sequential learning style. Nevertheless, the belief that learners should learn language in a different way from
+how they learn other sciences still preoccupies some students and should be cleared before the strategies on stylestretching are introduced to the experimental classes.
+From understanding the causes and the distribution of learning styles of the experimental classes, some teaching
+strategies were proposed to create teacher-student style matching and nurture style stretching, which seeks to meet the
+goal of a balanced teaching style. Matching teaching styles to learning styles can significantly enhance student behavior
+in foreign language instruction (Oxford et al., 1991); however, the teaching styles with which students feel most
+comfortable may not correspond to the style that enables them to learn most effectively. A student should not be placed
+into one or another style category and taught exclusively according to his or her preferred style. What must be done to
+achieve effective foreign language learning is to balance instructional methods, somehow structuring the class so that all
+learning styles are simultaneously or at least sequentially accommodated (Oxford, 1990).
+Teaching strategies to create teacher-student style matching
+Teaching strategies involve choice of tasks, forms of answer, forms of interaction, and references appealing to the
+range of learning styles of the experimental classes (Table 6). Task choice involves the choice of pre-task activities, the
+task itself and the post-task sharing, all areas during lesson planning in which teachers can provide different forms of
+© 2011 ACADEMY PUBLISHER
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+291
+
+input and model strategies. Central to considering the range of tasks given is the question of the form in which teachers
+want the answer and the accountability of the responses learners give (Hall, 1994). Given that academic tasks drive the
+student, the form of an answer will be important to matching a range of learning styles (Doyle, 1983).
+
+Learning
+styles
+Sensing
+
+Intuitive
+Visual
+
+Verbal
+Active
+
+Reflective
+Sequential
+
+Global
+
+TABLE 6:
+TEACHING STRATEGIES TO MATCH DIFFERENT LEARNING STYLES
+Teaching strategies
+Tasks
+Forms of answer
+Forms of
+interaction
+images, sounds, video,
+creations of demos,
+quizzes with
+pair work, group
+demos, simulations
+images, case studies
+accompanying images,
+work
+audio
+case studies, settling and
+problem solving
+essays that ask for
+group work
+prediction
+outcome projections
+use of a video clip,
+mind mapping of
+identification on maps,
+pair work, group
+diagram, image or map
+concepts (webbing),
+diagrams, required
+work
+diagramming, readings
+drawings or sketches,
+read and response
+summaries, outlines,
+journaling, minute
+summaries, outlines
+group work
+debates
+writing, peer critiquing
+class participation
+model building, role
+projects, reports
+group work
+playing, presentations,
+surveys/ opinion polls
+class time for reflection
+problem sets, journaling
+problem solving
+group work
+or critical thinking
+outlines, lists, examples
+creation of steps,
+creation or reenactment
+small discussion
+processes, scanning
+of steps, processes
+groups
+discussion of concepts
+
+journaling, discussion,
+relationship
+construction, mapping,
+skimming
+
+essay questions
+
+large discussion
+groups
+
+References
+video or audio clips
+from a media collection
+readings from various
+view points
+reference maps,
+diagrams, pictures,
+articles
+observation, reading
+questionnaires
+
+observation, reading
+reference materials of a
+procedural nature,
+scholarly journals
+broad based reference
+materials, newspaper
+articles, magazines and
+books
+
+Teaching strategies to nurture style stretching
+Learning style is a consistent way of functioning which reflects cultural behavior patterns and, like other behaviors
+influenced by cultural experiences, may be transformed as a result of training in learning experiences. Learning styles
+are thus “moderately strong habits rather than intractable biological attributes” (Reid, 1987, p. 100). With a moderate
+training or guidance by teachers, sub or unconscious styles can become conscious learning strategies. However, while
+teachers are guiding students into some learning styles, they have to guide themselves into the teaching styles they are
+not accustomed to. The way they normally teach addresses the needs of at least four of the specified learning style
+categories: regular use of some of the teaching strategies below suggested by Kolb (1984) and Felder (1993) should
+suffice to cover the remaining four.
+ Motivate learning. As much as possible, teach new material (vocabulary, rules of grammar) in the context of
+situations to which the students can relate in terms of their personal and career experiences, past and anticipated, rather
+than simply as more material to memorize (intuitive, global).
+ Balance concrete information (word definitions, rules for verb conjugation and adjective-noun agreement)
+(sensing) and conceptual information (syntactical and semantic patterns, comparisons and contrasts with the students‟
+native language) (intuition).
+ Balance structured teaching approaches that emphasize formal training (sequential) with more open-ended
+unstructured activities that emphasis conversation and cultural contexts of the target language (global).
+ Make extensive use of visuals. Use photographs, drawings, sketches, and cartoons to illustrate and reinforce the
+meanings of vocabulary words. Show films, videotapes, and live dramatizations to illustrate lessons in texts (visual,
+global).
+ Assign some repetitive drill exercises to provide practice in basic vocabulary and grammar (sensing) but do not
+overdo it (intuitive).
+ Do not fill every minute of class time lecturing and writing on the board. Provide intervals – however brief – for
+students to think about what they have been told; assign brief writing exercises (reflective). Raise questions and
+problems to be worked on by students in small groups; enact dialogues and mini-dramas; hold team competitions
+(active).
+ Give students the option of cooperating on at least some homework assignments (active). Active learners generally
+learn best when they interact with others; if they are denied the opportunity to do so they are being deprived of their
+most effective learning tool.
+ The lesson is designed as a ‘flow’ from getting involved (concrete experience) to listening/observing (reflective
+observation) to creating an idea (abstract conceptualization) to making decisions (active experimentation) as a result of
+combining two dimensions of perception (sensing/intuitive) with two dimensions of processing (active/reflective)
+ Alternate style-like groupings and style-varied groupings for generating the greatest flexibility of styles.
+Teaching strategies to encourage changes in students‟ learning styles
+© 2011 ACADEMY PUBLISHER
+
+292
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+One important aspect of action research is the acceptance of people as they are in the first place, and with this
+understanding, support them as they perform tasks and activities (Stringer, 1999, pp. 122-123). Since Vietnamese
+students tend to be afraid of taking risk (Ellis, 1995, p. 200), teachers „need to create environments where students feel
+safe enough to try out new behaviors‟ (Scarcella, 1990, p. 7).
+ Teachers should show their respect for students‟ own learning styles, help them see the benefits of style range
+expansion, and keep them well informed of the experimental process. As action researchers, teachers should arrange to
+advise students about what is happening in ways that they can understand (Stringer, 1999, p. 122). Wu (1983) concludes
+that Chinese students usually respond well to activities when they realize what the purposes behind them are.
+ Even though students fully understand the benefits of style stretching, they may give up halfway through the
+experimental process, since they do not find lesson content meaningful and interesting to them. Matching the difficulty
+level of the material to learner ability, bringing learning topics closer to students‟ local sensitivity, and keeping
+activities related to students‟ culture make the pathway to unfamiliar learning styles appear smoother and shorter to
+students.
+Phase 3: Experimenting with the teaching strategies and collecting feedback from both students and teachers.
+The experimental process consists of two subphases, creating teacher-student style matching and nurturing style
+stretching. The first subphase was conducted in May and June 2010, and the second subphase in July and August 2010.
+In the first subphase, teaching activities were designed to match the distribution of each experimental class, and stylelike groupings were chosen for group activities.
+TABLE 7:
+RELATIONSHIP BETWEEN TEACHER-STUDENT STYLE MATCHING AND CLASS INTERACTION INCREASE
+Interaction increase
+over 50%
+20-50%
+0-<20%
+Teacher-student matching
+2 classes
+1 class
+Teacher-student mismatching
+2 classes
+2 classes
+1 class
+Total
+4 classes
+3 classes
+1 class
+
+As displayed in Table 7, there are three classes in which the teachers managed to accommodate their teaching styles
+to their students‟ learning styles, and there are five classes in which the teachers, in different degrees, failed to reach out
+to the distribution of learning styles. Especially one teacher of this study tried to apply revised teaching strategies in her
+class in 2 weeks alone, and then gave up and returned to her usual teaching way in which she felt completely
+comfortable for the rest of the study length (<20% interaction increase). Interestingly, substantial class interaction
+increase (>50%) was observed not only in the style matching classes (two classes) but also in the style mismatching
+classes (two classes). On the contrary, one class, even though teacher-student style matching occurred, displayed a
+subtle improvement in class verbal interaction (20-50% increased). Class observations and discussions with the students
+of these two style mismatching classes without their teachers‟ presence showed that it was the teachers‟ inherent
+qualities that made up for their style mismatching and contributed to their success. Class observations found a
+cooperative, encouraging, and relaxed atmosphere in these classes the teachers created by incorporating fun activities,
+avoiding grammatical correction, and enhancing students‟ self-esteem. Gibson and Chandler (1988, p. 394) observe that
+students often learn most from teachers who do their best to increase their self-esteem. Most of the students of these
+classes said they loved their teachers since their teachers welcomed their contribution with warmth and respect, listened
+to them attentively, praised their attempt or content whenever possible, and occasionally used their ideas for further
+discussion to make them feel significant. They welcomed their teachers as their self-esteem was enhanced by their
+teachers. In contrast, in the style matching class with a slight interaction increase (20-50%), the teacher seemed to keep
+his distance from his students, which probably led to his failure in the experiment. In the language classroom, like in
+other social settings, there is the need to establish and maintain friendly relationship (Malamah-Thomas, 1996); and
+personal and cooperative relationship is viewed by Stringer (1999, p. 122) as an important aspect of action research.
+In the second subphase of the experimental process, style-stretching strategies and style-varied groupings were
+introduced into the classrooms to expand students‟ learning styles. Table 8 shows the outcomes of both experimental
+subphases.
+
+Subphase 1
+Subphase 2
+
+TABLE 8:
+INCORPORATING STYLE-STRETCHING STRATEGIES
+Interaction increase
+over 50%
+20-50%
+Number of classes
+4 classes
+3 classes
+Further interaction
+1 class : >50%
+1 class: >50%
+increase
+3 classes: 20-50%
+1 class: 20-50%
+1 class: NO
+
+0-<20%
+1 class
+NO
+
+Class observations showed that the teacher, who had given up adapting her style to learners‟ styles in the first
+subphase, again failed to enhance classroom interaction. In six out of the remaining experimental classes, the teachers
+felt more comfortable to vary teaching styles in the classrooms as they had chance to exert teaching styles of their
+strength, so verbal interaction in these classes was further enhanced. However, in the style matching class which had not
+been very successful in the first subphase (20-50% interaction increase), mismatching strategies failed. The students,
+
+© 2011 ACADEMY PUBLISHER
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+293
+
+81% of whom were adults, were unreceptive to these strategies, and some even doubted their effectiveness. They
+showed a deep dissatisfaction through dropouts. Cooper and Miller (1991) found a significant positive relationship
+between teacher-student style congruency and student satisfaction. Lorge (1947), writing about effective methods in
+adult education, suggested that to reach the adult learner, you have to teach what adults want. In his theory of andragogy,
+an attempt to differentiate the way adults learn from the way children learn, Knowles (1973) assumed that adult learners
+are self-directing, and thus prefer to determine what, how, and when they learn. In this study, the element „age‟ was
+considered a constant, which led to the failure in one experimental class; so the role of this element in learning styles
+deserves further research.
+V. CONCLUDING REMARKS
+Teaching is an interesting profession with new approaches expanding teachers‟ roles and giving teachers more
+insights into how to help their learners (Larsen-Freeman, 1988). A key to getting and keeping students actively
+immersed in learning lies in understanding their learning style preferences. The findings of this study can help
+Vietnamese EFL teachers understand the pattern of learning styles in Vietnamese EFL classrooms as well as find out
+teacher-learner style mismatches in their own classrooms, which have caused learners‟ dissatisfaction and low
+performance. In this research, the multi-style teaching strategies were applied to meet the learners where they stood and
+help them widen their horizon in learning. The results substantiated the benefits of style matching and stretching;
+nonetheless, the failures found in the class where adult learners failed to respond to style stretching strategies and in the
+class where the teacher failed to respond to learners‟ learning styles remind teachers that there subsist other learner
+factors, teacher factors, and learning environment factors beside learning and teaching styles, and we teachers ever
+remain learners, seeking further understanding their impact on style matching and stretching strategies.
+REFERENCES
+[1]
+
+Brindley, G. (1989). The role of needs analysis in adult ESL programme design. In R. K. Johnson (Ed.), The Second Language
+Curriculum. Cambridge: Cambridge University Press.
+[2] Burns, A., & Joyce, H. (1997). Focus on speaking. Sydney: National Center for English Language Teaching and Research.
+[3] Carbo, M., & Hodges, H. (1988, Summer). Learning styles strategies can help students at risk. Teaching Exceptional Children,
+pp. 48-51.
+[4] Condon, J. (1984). With respect to the Japanese. Yarmouth, ME: Intercultural Press.
+[5] Cooper, S., & Miller, J. (1991). MBTI learning style–teaching style discongruencies. Educational and Psychological
+Measurement, 51, 699-706.
+[6] Corder, S. P. (1977). Language teaching and learning: A social encounter. In Brown, H., Yorio, C. and Crymes, R. (Eds.), On
+TESOL '77. Washington D.C.: TESOL.
+[7] Dewar, T. (1999). Adult learning online. Retrieved March 26, 2003 from http://www.calliopelearning.com/adult.htm
+[8] Doyle, W. (1983). Academic work. Review of Educational Research 53(2), 159-199.
+[9] Dunn, R., & Dunn, K. (1978). Teaching students through their individual learning styles. Reston, VA: Reston Publishing
+Company, Inc.
+[10] Ellis, R. (1994). The study of second language acquisition. Oxford: Oxford University Press.
+[11] Ellis, C. (1995). Culture shock! Vietnam. Singapore – Kuala Lumpur: Times Book International.
+[12] Ehrman, M. E. (1996). Understanding second language learning difficulties. California: SAGE Publications.
+[13] Felder, R. M. (1993). Reaching the second tier: Learning and teaching styles in college science education. J. College Science
+Teaching, 23(5), 286-290.
+[14] Felder, R. M., & Silverman, L. K. (1988). Learning and teaching styles in engineering education. Engineering Education, 78,
+674-681.
+[15] Fontana, D. (1994). Managing classroom behavior. Leicester: The British Psychological Society.
+[16] Gagne, R. (1985). The conditions of learning. New York: Holt, Rinehart & Winston.
+[17] Gibson, J. T. & Chandler, L. A. (1988). Educational psychology –Mastering principles and applications. Boston: Allyn and
+Bacon, Inc.
+[18] Good, T. & Brophy, J (1987). Teacher expectations as self-fulfilling prophecies. In Clarizio, Harvey F., Rober C. Craig, &
+William A. Mehrens (Eds.), Contemporary Issues in Educational Psychology. New York: Random House.
+[19] Gregorc, A. F., & Ward, H. B. (1977, February). A new definition for individual. NASSP Bulletin, p. 5.
+[20] Hall, S. J. (1994). Task as a unit of teaching analysis. In Bird, N., Falvey, P., Tsui, A. B. M., Allison, D. M., & McNeill, A.
+(Eds.), Language and Learning (pp. 98-125). Hong Kong: Institute of Education.
+[21] Harker, J. O. (1988). Individual and team approaches: An introduction. In Green, Judith L. & Judith O. Karker (Eds.), Multiple
+Perspective Analysis of Classroom Discourse. New Jersey: Ablex Publishing Corporation.
+[22] Hyman, R., & Rosoff, B. (1987). Matching learning and teaching styles: The jug and what‟s in it. In Clarizio, Harvey F.,
+Robert C. Craig, & William A. Mehrens (Eds.), Contemporary Issues in Educational Psychology. New York: Random House.
+[23] Irvine, J. J., & York, D. E. (1995). Learning styles and culturally diverse students: A literature review. In James A. Banks (Ed.),
+Handbook of Research on Multicultural Education (pp. 484-497). New York: Simon & Schuster Macmillan.
+[24] James, W. B., & Gardner, D. L. (1995). Learning styles: Implications for distance learning. New Directions for Adult and
+Continuing Education, 67, 19-32.
+[25] Keefe, J. W. (1991). Learning style: Cognitive and thinking skills. Reston, VA: National Association of Secondary School
+Principals.
+
+© 2011 ACADEMY PUBLISHER
+
+294
+
+JOURNAL OF LANGUAGE TEACHING AND RESEARCH
+
+[26] Keefe, J. W. (1987). Theory and practice. Reston, VA: National Association of Secondary School Principals.
+[27] Knowles, M. (1973). The adult learner: A neglected species. Houston, TX: Gulf Publishing Company.
+[28] Kolb, D. (1984). Experiential learning: Experience as the source of learning and development. Englewood Cliffs, NJ: PrenticeHall.
+[29] Larsen-Freeman, D. (1998). Expanding roles of learners and teachers in learner-centered instruction. In Renandya, W. A. &
+Jacobs, G. M. (Eds.), Learners and Language Learning (pp. 207-226). Anthology Series 39. Singapore: Seameo Regional
+Language Centre.
+[30] Lorge, I. (1947). Effective methods in adult education: Report of the Southern regional workshop for agricultural extension
+specialists. Raleigh, NC: North Carolina State College.
+[31] Long, M. H. & Sato, C. (1993). Classroom foreigner talk discourse: Forms and functions of teachers‟ questions. In H. W.
+Seliger & M. H. Long (Eds.), Classroom-Oriented Research on Second Language Acquisition (pp. 268-285). Rowley, Mass.:
+Newbury House.
+[32] Malamah-Thomas, A. (1996). Classroom interaction. Oxford: Oxford University Press.
+[33] Merriam, S. B., & Caffarella, R. S. (1991). Learning in adulthood. San Francisco, CA: Jossey-Bass.
+[34] Moody, R. (1988). Personality preferences and foreign language learning. The Modern Language Journal, 72, 389-401.
+[35] Myers, I. B., & McCaulley, M. H. (1985). Manual: A guide to the development and use of the myersbriggs type indicator. Palo
+Alto, CA: Consulting Psychologists Press.
+[36] Oxford, R. L. (1990). Missing link: Evidence from research on language learning styles and strategies. In Georgetown
+University Round Table on Languages and Linguistics. Washington, DC: Georgetown University Presss.
+[37] Oxford, R. L., Ehrman, M., & Lavine, R. (1991). Style wars: Teacher-student style conflicts in the language classroom. In
+Magnan, S. (Ed.), Challenges in the 1990’s for College Foreign Language Programs. Boston: Heinle and Heinle.
+[38] Oxford, R. L., Hollaway, M. E., & Murillo, D. (1992). Language learning styles: Research and practical considerations for
+teaching in the multicultural tertiary ESL/EFL classroom. System, 20/4, 439-445.
+[39] O‟Sullivan, N. (1997). Teaching English in Southeast Asia. Lincohnwood, Illinois: Passport Books.
+[40] Reid, J. (1987). The learning style preferences of ESL students. TESOL Quarterly, 21/1, 87-111.
+[41] Reiff, J. C. (1992). Learning styles. Washington, D. C.: National Education Association.
+[42] Renandya, W. A., Lim, W. L., Leong, K. W. & Jacobs, G. M. (2001, January). A survey of English language teaching trends
+and practices in Southeast Asia [Lecture Notes]. Singapore: SEAMEO Regional Language Centre.
+[43] Robson, C. (1993). Real world research: A resource for social scientists and practitioner-researchers. Oxford: Blackwell.
+[44] Rollman, M. (1994). The communicative language teaching „revolution‟ tested: A comparison of two classroom studies: 1976
+and 1993. Foreign Language Annuals, 27, 221-239.
+[45] Scarcella, R. (1990). Teaching language minority students in the multicultural classroom. Englewood, New Jersey: Prentice
+Hall Regents.
+[46] Scarella, R. C., & Oxford, R. L. (1992). The tapestry of language learning. Boston: Heinle & Heinle Publishers.
+[47] Solomon, B. A., & Felder, R. M. (1999). Index of learning styles questionnaire. Retrieved March 26, 2003 from
+http://www.ncsu.edu/felder-public/ILSdir/ilsweb.html
+[48] Song, B. (1995). What does reading mean for East Asian students? College ESL, 5/2, 35-48.
+[49] Stringer, E. T. (1999). Action research (2nd ed.). California: SAGE Publications.
+[50] Talmadge, G. K., & Shearer, J. W. (1969). Relationship among learning styles, instructional methods and the nature of learning
+experiences. Journal of Educational Psychology, 57, 222-230.
+[51] Tobias, S. (1990). They‟re not dumb, they‟re different: Stalking the second tier. Tucson: Research Corporation.
+[52] Wajnryb, R. (1993). Classroom observation tasks – A resource book for language teachers and trainers. Glassgow: Cambridge
+University Press.
+[53] Willing, K. (1988). Learning styles in adult migrant education. Adelaide: National Curriculum Resource Center.
+[54] Wu, J. Y. (1983). Quchang Buduan–A Chinese view of foreign participation inteaching English in China. Language Learning
+and Communication, 2/1, 111-116.
+
+Luu Trong Tuan is currently an EFL teacher at National University of Ho Chi Minh City. He received his M.TESOL from
+Victoria University, Australia in 2004. Besides his focus on TESOL, his recent publications such as Language Transfer is Cultural
+Transfer between Communities, Social Sciences Review, No. 11, 2004, pp. 60-63; and Principles for Scientific Translation, Social
+Sciences Review, No. 8, 2004, pp. 63-67; and Building Vietnamese Medical Terminology via Language Contact, Australian Journal
+of Linguistics, Vol. 29, No. 3, September 2009, pp. 315-336 show his interest in language contact and translation areas.
+
+© 2011 ACADEMY PUBLISHER
+
+View publication stats
+
+

@@ -1,0 +1,2634 @@
+Make your website a success!
+Why are some websites a joy to use, and others are just frustrating? Why
+do some designs draw you in, while others put you oﬀ? Most importantly,
+how can you make sure that that your own website is easy for everyone to
+use, and helps you to achieve your business or life goals?
+Web Design in Easy Steps shows you how to build a website that looks
+great and delights visitors. Among other things, you’ll discover:
+makes a website that
+• What
+people really love
+
+page layout and
+• The
+navigation patterns of top sites
+to use HTML, CSS and
+• How
+Javascript to build your site
+will help your website
+• What
+rocket up the search engine
+rankings
+
+• How to join the ecommerce revolution by integrating a shopping cart
+• Ways to bring your site to life with animation, video, and audio
+• How to add a social dimension with comments, Facebook and Twitter
+
+Newly updated to cover developments such as the mobile Internet,
+HTML5 and integration with social networks, this book guides you
+through the complete process of
+creating a website. It takes you
+from your ﬁrst plans, through
+design and construction, to
+ﬁnally launching your site and
+measuring its success. Along the
+way, you’ll learn from some of
+the most successful websites and
+will ﬁnd out the right way to
+build your site, using the best of
+today’s tools and technologies.
+
+Contents
+
+Contents
+
+1
+
+The Web Design Challenge
+
+9
+
+The Goal of This Book
+The Diversity of Devices
+How Devices Affect Design
+Introducing Key Technologies
+Degrading Gracefully
+What About Mobile?
+Understanding Accessibility
+Top Accessibility Principles
+DIY or Outsource?
+How to Set Up Your Website
+
+10
+11
+12
+14
+16
+17
+18
+19
+21
+22
+
+2
+
+Planning Your Website
+
+3
+
+Creating Effective Website Content
+
+The Purpose of Your Website
+How Will You Compete?
+Understanding Your Visitors
+Creating a Sitemap
+Planning Interaction
+Hosting Your Website
+Why Domain Names Matter
+8 Domain Name Buying Tips
+Domain Name Pitfalls
+Working With Web Designers
+
+Ideas For Content
+How Web Writing Differs
+8 Top Web Writing Tips
+Images That Work
+Finding Photos on Flickr
+Creating a Cartoon
+Compressing Images
+Adding a Map to Your Site
+
+23
+24
+26
+27
+28
+30
+31
+32
+33
+34
+35
+
+37
+38
+40
+41
+42
+44
+45
+46
+48
+
+4
+
+Layout and Design
+
+5
+
+Designing Effective Navigation
+
+6
+
+HTML: The Language of the Web
+
+The Role of Your Design
+Fixed or Flexible?
+Using the Grid
+Tips for Good Alignment
+Thinking Above the Fold
+Organizing Information
+Creating a Color Scheme
+Using Gradients
+Choosing Fonts
+What is Your Look and Feel?
+The Right Look and Feel
+
+What is Navigation?
+Laying Out Your Navigation
+Grouping the Options
+Tabbed Navigation
+Dropdown Menus
+Using Icons
+The Role of the Homepage
+You are Here...
+Encouraging Exploration
+Adding a Search Engine
+Effective Error Messages
+14 Tips for Effective Links
+
+What is HTML?
+Structuring Your HTML Pages
+Adding Pictures
+Adding Links
+Creating Tables
+More Advanced Tables
+What is a Web Form?
+Choosing Form Elements
+Using The Input Tag
+Using Other Form Elements
+Creating Lists
+The Art Of Good HTML
+Your Next Steps With HTML
+Reference: Structure
+Reference: Header
+Reference: Text and Forms
+Tables, Lists, Links, Images
+
+49
+50
+51
+53
+54
+55
+56
+57
+59
+60
+61
+62
+
+63
+64
+65
+67
+68
+70
+72
+74
+76
+78
+80
+82
+83
+
+85
+86
+87
+88
+89
+90
+92
+93
+94
+96
+98
+99
+100
+102
+103
+104
+105
+106
+
+7
+
+CSS: Giving Your Pages Some Style
+
+8
+
+Javascript for Interactive Pages
+
+Why Use CSS?
+How CSS Transforms HTML
+How CSS Describes Design
+Adding CSS to Your Site
+How to Change Colors
+Styling Your Text
+Padding, Border and Margin
+Dividing the Page Up
+Styling With Class
+Advanced CSS Selectors
+Creating a Simple Layout
+Styling the Content
+Advanced Positioning
+List Bullets and Numbers
+Creating a Navbar With CSS
+Printer-friendly Pages
+Next Steps With CSS
+Reference: Text Formatting
+Reference: Backgrounds
+Reference: Layout
+Reference: Pseudo-classes
+
+What is Javascript?
+How to Add Javascript
+Creating Functions
+Responding to User Actions
+Showing and Hiding Content
+How it Works
+Adding a Toggle Routine
+Simple Form Validation
+Checking Text Boxes
+More Advanced Form Tests
+Customizing by Date
+Opening New Windows
+Adding Random Content
+Adding a Photo Slideshow
+Saving Time With jQuery
+3 Quick jQuery Examples
+
+107
+108
+109
+110
+111
+112
+114
+116
+118
+120
+121
+122
+125
+126
+127
+128
+130
+131
+132
+133
+134
+136
+
+137
+138
+140
+141
+142
+144
+145
+146
+147
+148
+149
+150
+152
+153
+154
+155
+156
+
+9
+
+Audio, Video and Flash
+
+157
+
+Adding Audio Using Yahoo
+What is Flash?
+Using Flash Professional
+Adding Video Using Flash
+Adding Audio Using Flash
+Creating a Flash Animation
+Top Tips for Flash Animation
+
+158
+159
+160
+161
+162
+163
+166
+
+10
+
+Tools for Website Design
+
+167
+
+Using Microsoft Word
+HTML and Visual Editors
+Introducing Dreamweaver
+A Dreamweaver Tour
+
+168
+169
+171
+172
+
+11
+
+Adding a Shopping Cart
+
+175
+
+Essentials for Ecommerce
+What is PayPal?
+Choosing the Right Cart
+Creating Your Account
+Creating Your Cart Buttons
+Adding Your Cart Buttons
+Testing Your Shopping Cart
+
+176
+177
+178
+179
+180
+182
+184
+
+12
+
+Adding a Social Dimension
+Why Social Matters
+Integrating with Facebook
+Integrating with Twitter
+Adding a “Share This” Box
+Adding Photos from Flickr
+Adding Comments
+Moderating Comments
+
+185
+186
+187
+188
+189
+190
+191
+192
+
+13
+
+Content Management Systems
+What is a CMS?
+What is Wordpress?
+Setting Up Wordpress
+Adding Pages
+Adding Posts
+Managing Comments
+
+194
+195
+196
+198
+199
+200
+
+14
+
+Testing and Launching
+
+201
+
+When is it Ready to Launch?
+Testing Your Website
+Technical Testing
+Usability Testing
+Publishing Your Site by FTP
+Updating Your Website
+
+202
+203
+204
+205
+206
+208
+
+15
+
+Promoting Your Website
+
+209
+
+Introducing Search Results
+How People Search
+Researching Key Phrases
+Where to Put Search Terms
+7 Top Tips for SEO
+Submit Your Website
+Using Keyword Advertising
+Display Advertising
+More Promotion Tips
+Bringing Visitors Back Again
+
+210
+211
+212
+214
+216
+217
+218
+220
+221
+222
+
+193
+
+16
+
+Measuring Success
+Measuring Visitor Interaction
+Installing Google Analytics
+What the Numbers Mean
+Other Important Metrics
+Surveying Customers
+Creating a Survey
+Enabling Evolution
+
+223
+224
+226
+227
+228
+229
+230
+231
+
+Credits
+
+232
+
+Index
+
+233
+
+4
+
+Layout and Design
+
+Your layout needs to
+communicate order and
+consistency, so the design
+looks professional and is
+easy to use. The fonts, colors,
+textures and images you
+choose will combine to create
+the look and feel of your
+website.
+
+50
+
+The Role of Your Design
+
+51
+
+Fixed or Flexible?
+
+53
+
+Using the Grid
+
+54
+
+Tips for Good Alignment
+
+55
+
+Thinking Above the Fold
+
+56
+
+Organizing Information
+
+57
+
+Creating a Color Scheme
+
+59
+
+Using Gradients
+
+60
+
+Choosing Fonts
+
+61
+
+What is Your Look and Feel?
+
+62
+
+The Right Look and Feel
+
+Layout and Design
+
+The Role of Your Design
+The layout and design
+guidelines in this chapter
+are just that: guidelines.
+Feel free to break them
+creatively. Just take care
+that you don’t break
+them without thinking
+about them first.
+
+Now that you’ve spent some time planning and creating content,
+it’s time to look at the layout and design of your web pages. Your
+website design needs to achieve the following goals:
+engagement. Your website design needs to
+• Encourage
+inspire visitors to look around your site and spend some
+
+time there. It’s easy to focus on this aspect of the design,
+but don’t get carried away. Keep the purpose of your site in
+mind throughout its development, otherwise you might end
+up with something that is beautiful, but otherwise useless.
+Different styles will resonate with different audiences, which
+is why it’s important to understand your target visitors first.
+
+50
+
+order. Whether you have five pages or five
+• Communicate
+hundred, your website design needs to make it easy for people
+Don’t be afraid to leave
+some empty space, at
+the bottom of a column,
+for example. It gives your
+design breathing space.
+You don’t have to fill
+every inch of your page
+with content or design
+elements.
+
+Use whatever tools you
+find easiest. You could
+start with pen and paper,
+use an art package like
+Adobe Photoshop, or go
+straight into an HTML
+prototype. The key is
+to experiment and not
+become wedded to
+any particular design or
+layout too early.
+
+to understand which pages are more important, and which
+parts of each page are most important.
+
+the boundaries of the website. Because people can
+• Define
+move between websites so easily, it’s important that they
+
+understand when this has happened. Using a consistent
+design across your web pages helps to reassure visitors that
+they are still on your website. You can create different layouts
+for different page types (your homepage and product pages
+are bound to look different, for example), but these should
+share the same design elements. Avoid using radically
+different color schemes or graphic styles on different pages,
+otherwise visitors might think they’ve gone to a different
+website. Anything that makes the visitor think about using
+your website, instead of just getting on with doing so, is a
+barrier to your site achieving its goals.
+
+easy-to-use. Your site navigation needs to feel intuitive
+• Feel
+to visitors, so that they can easily find things. They want
+to spend time using your content, not trying to figure out
+how to find it. Navigation is so important that Chapter 5 is
+dedicated to it.
+
+confidence. If you have a site that visitors consider
+• Inspire
+to be professionally designed, they’re more likely to come
+
+back or spend money with you. People will (sometimes
+subconsciously) judge the quality of your expertise or services
+based on how professional your website looks.
+
+Fixed or Flexible?
+One of the challenges of website design is that you don’t know
+how large the user’s web browser window will be. Screen sizes
+vary greatly, and people often resize their browser window so that
+they can see more than one application on screen, side by side.
+The website design is typically contained in a box on the screen (a
+container box). Sometimes this box has no border, so it’s invisible.
+But how the size of that box is defined governs what happens to
+the whole web page, at different screen and window sizes. There
+are several common strategies for dealing with the uncertainty of
+different screen and window sizes.
+
+Fixed width design
+
+Fixed width is perhaps the most popular solution to the challenge
+of different screen sizes. In a fixed width design, the container box
+has a width that is always the same size. This gives the designer
+the most control over the look of the final web page, so it makes
+it easier to create pages that consistently look good.
+
+On a smaller screen, there is
+less white space at the sides,
+and less of the page’s height
+is visible at once. But the core
+design is preserved, and the web
+designer remains in control. The
+Guardian (www.guardian.co.uk)
+has built one of the many sites
+that use this strategy.
+Above: The Guardian
+website on a narrow
+monitor.
+Left: The Guardian
+website on a wide
+monitor.
+
+If you already have a
+website, use your web
+analytics to measure
+the screen resolution
+your visitors have. The
+global trends in screen
+size are less important
+than what your audience
+actually uses. Websites
+that cater for corporate
+or public sector markets
+could find screen sizes
+lag considerably behind
+the web population, as a
+whole.
+
+51
+
+It takes control away from users, though. If they shrink the
+browser window, they might have to scroll horizontally as well
+as vertically to see everything, which is annoying. Users with big
+screens see the website at a smaller size than their screen could
+display, but the content remains easy to navigate and read.
+
+How wide should your
+fixed width design be?
+W3Counter (www.
+w3counter.com/
+gloabstats.php) publishes
+screen resolution data
+based on visitors to over
+40,000 websites. In
+September 2010, only
+2.2% of people still used
+800x600 screens. Most
+had at least 1024x768
+resolution. Designers
+often use a fixed width
+of 960 pixels, which
+leaves space for the
+scrollbar and other
+browser features. 960 is
+also easily divisible into
+columns.
+
+Layout and Design
+
+...cont’d
+Flexible design
+The subscription service
+Adobe CS Live includes
+SiteCatalyst Netaverages.
+This provides current
+data on the browsers
+and devices people are
+using to view websites,
+and the latest trends.
+
+In a flexible design, the website design stretches or shrinks to the
+size of the browser window.
+This strategy reduces the amount of scrolling users have to do,
+because the content can make optimal use of the screen space
+available. You can combine a flexible design with a maximum
+width, so that the site scales down for smaller screens and
+windows, but doesn’t become too wide to read comfortably
+on large monitors. Flexible design is hard to do well, because
+everybody sees a different amount of content on screen depending
+on the size of their monitor and/or browser window.
+
+52
+
+The Broads Authority (www.broads-authority.gov.uk) uses a
+flexible design with a maximum width. The content columns
+expand to use the available space, but the maximum width stops
+them from becoming too wide.
+
+The browser does all the
+hard work in putting
+things in the right place.
+You just need to say
+how wide you want your
+website content box
+to be: a fixed width in
+pixels, a percentage of
+the available space, or a
+size relative to the text
+size (using the em unit).
+
+Another strategy is to
+use an elastic design,
+which stretches in
+proportion to the size of
+the text. That means the
+length of lines of text
+remains constant, so you
+can ensure they remain
+easy to read.
+
+Variable content design
+
+Some sites show additional content to users who have larger
+screens. This needs to be non-essential bonus content, because
+not everyone will see it. Amazon is a good example of this. Its
+main books page, for example, expands horizontally to show more
+books when viewed on a wider screen.
+
+Using the Grid
+Web designers often use a grid to help them position content on
+screen, within the container box.
+Grids are routinely used for designing print products. Newspapers,
+for example, use column-based layouts. Sometimes, a headline
+or a picture might span two, three or four columns. But it rarely
+spans two and a half columns, because that tends to look messy.
+Whether you’re working in print or online, if you can line up
+blocks of content, it makes your design look tidier.
+Take a look at the website for the Drupal content management
+system (www.drupal.org). The grey stripes have been overlaid to
+show the 12 column grid that is the foundation of this design.
+
+The free 960 Grid System
+(www.960.gs), developed
+by Nathan Smith,
+provides CSS templates
+you can use to help build
+your grid-based layout.
+It also includes sketch
+sheets you can print out
+to help you plan a 12,
+16 or 24 column design.
+
+Not everything
+has to sit rigidly
+on the grid: you
+can break out of
+it for emphasis,
+and to create
+some pace in the
+design. But, if
+nothing lines up,
+a web page can
+look amateurish
+or chaotic.
+
+53
+
+The top blue section is divided into two halves. The first white
+section contains three boxes, all aligned to the same grid. Some
+of the content within these boxes is centered, but most of it sits
+tightly against the edge of the column. Towards the bottom of
+the page, the design is two-column again, and aligned to the same
+grid. Notice how well all the content on the left is aligned, from
+the logo down to the footer links.
+
+To stop the design
+looking too blocky, don’t
+put a border around all
+your content boxes. You
+can also use curves in
+your design, like Orion
+Advisor Services (www.
+orionadvisor.com).
+
+Layout and Design
+
+Tips for Good Alignment
+To ensure your web page lines up well, follow these steps:
+
+l
+1
+
+l
+
+54
+
+2
+
+Above: The rule of thirds
+says that designs based
+on dividing things into
+thirds look harmonious.
+The website of singer
+and songwriter Lily Allen
+(www.lilyallenmusic.
+com) uses three equally
+big columns on the
+homepage, and a twothirds / one-third layout
+on content pages.
+
+Right: The inconsistent
+alignment and centeraligned text looks messy.
+Far right: The pictures
+line up with each other,
+the text above and the
+company name. The
+left-aligned main text
+looks cleaner. The footer
+is right-aligned with the
+right-margin of the main
+content box. This is far
+from a complete web
+design, but it does show
+the difference good
+alignment makes.
+
+l
+3
+
+l
+4
+
+Mark up your content correctly, using the right HTML
+tags, to identify a heading or a list item, for example.
+By default, HTML brings consistency, ensuring that all
+headlines and bullets line up. You’ll learn more about
+HTML in Chapter 6.
+Take care when adding spacing using CSS (changing
+the padding and margin around an element). This can
+introduce inconsistencies that throw out the natural
+alignment that HTML gives you. You’ll learn how to
+control spacing using CSS in Chapter 7.
+Be careful if you’re using a visual editing system to build
+your web pages. They will often let you place content
+wherever you want on the page, but won’t alert you if
+you’re a few pixels out in lining things up. That can lead
+to designs that look sloppy.
+It’s easier to create a strong alignment, and the impression
+of good design that goes with it, if you align content with
+the left or right edge of the page or content box. If you
+center content, the alignment is harder to see. Centered
+paragraphs are also harder to read, because the start of
+each line is harder to find. Newcomers often want to
+center everything, but you should limit your use of center
+alignment to a few carefully selected parts of your design.
+
+Thinking Above the Fold
+As well as column based layouts, there’s another idea the web has
+borrowed from the newspaper industry: the fold.
+When broadsheet newspapers are laid out for sale, they’re folded
+down the middle and only the top half can be seen. The bit that’s
+on show is said to be “above the fold”. Newspapers are designed
+to have their major headlines and photos in this top half of the
+page, so that people are drawn to them and pick up the paper. The
+newspaper’s branding also appears prominently in this top half, so
+that people can recognise it immediately.
+In web design, the term “above the fold” is used to refer to the
+first screenful of content. It’s what people can see without having
+to scroll the page, so it is their first impression of your website.
+It’s essential that your website’s identity or branding, and its
+navigation, appears above the fold. By having multiple columns
+of text, you can also start several different stories above the fold
+and invite people to click to read more or scroll down the page to
+finish reading.
+
+Avoid having deep
+pages that require too
+much scrolling. Consider
+splitting a long article
+into lots of shorter
+articles. It’s easier to
+navigate, and can help
+your search rankings,
+too.
+
+55
+
+Of course, the fold doesn’t appear at the same place for everyone.
+It varies depending on the screen resolution, browser used, and the
+number of browser toolbars in use. If you’re assuming a minimum
+screen height of 768 pixels, a good place to think of the fold is
+being 575-590 pixels down the page. But remember that this is the
+minimum and that people will see lots of different sized screenfuls.
+People don’t always notice the scrollbar, so you need to provide a
+visual cue to encourage people to scroll down the page. An easy
+way to do this is to box some of the content, and stagger where
+the boxes end. People will understand that if they can’t see the
+bottom border of the box, they haven’t seen everything.
+Far left: The user has
+no clue that this page
+continues below the fold
+(the red line).
+Left: Boxing the left
+column tells the
+user the web page
+continues below the
+fold, prompting them to
+scroll.
+
+Layout and Design
+
+Organizing Information
+
+56
+
+Make your navigation
+stand out. Use color, text
+size, or spacing to make
+it immediately obvious
+to visitors. While your
+text and other content
+has to be there, most of
+the time, people are just
+skim-reading it to find
+the next link they need.
+
+Proximity helps
+communicate meaning.
+Don’t put half your
+navigation links on
+the left and half on
+the right: they belong
+together. Make sure your
+headings are closer to
+the content they title,
+rather than the content
+above.
+
+People ignore things
+they think are adverts.
+So don’t make your
+content or navigation
+look the same size and
+shape as an advert (see
+Chapter 15 for standard
+advert sizes). Take
+care with positioning
+important content on
+the right, too. Adverts
+are often placed here, so
+content there might be
+more easily overlooked.
+
+Within each web page, you need to create a hierarchy of
+information. It needs to be easy for visitors to see what’s most
+important on any given page, and easy for them to skim-read the
+page to find what they’re looking for.
+Think of it like a newspaper. The size of the headlines, and their
+position on the page, tells you a lot about the relative importance
+of different stories.
+Here are some tips for organizing the content on your web page:
+
+• Larger text looks more important than smaller text.
+Things higher up the page tend to be more important than
+• things
+further down the page.
+Be consistent. If you have 20 different sizes of text, it will be
+• difficult
+for people to gauge their relative importance. Use
+
+up to three different types of headings which are consistently
+formatted. Using the HTML <h1> to <h3> tags correctly will
+enforce consistency by default.
+
+Use bulleted lists and subheadings to structure your content.
+• You
+can create them using HTML, so they’re part of the
+language of navigating the web.
+
+You can use contrasting color or spacing around elements to
+• call
+attention to them. Audiobook company Audible (www.
+
+audible.com), for example, could use a text link that says
+“continue” to bring people into its subscription process. But
+it uses a bright orange button with space around it, so that
+there’s no mistaking the most important action on this page.
+
+Creating a Color Scheme
+The typical computer can display millions of colors, so how do
+you choose a handful that work well? The good news is that
+there are lots of tools that encapsulate the important color design
+theories, and they’re often free. Here’s a suggested approach:
+
+l
+1
+
+2
+
+Open a color scheme tool. You can find one at
+www.colorschemedesigner.com, and Adobe has one called
+Kuler at http://kuler.adobe.com. You might have one built
+in to your web design software or image editing software
+too.
+
+Above: The CoffeeCup
+HTML Editor includes a
+color scheme creator.
+
+You can often change
+the personality of your
+palette by using tints and
+shades instead of the
+pure color. You get a tint
+when you add white to
+a color. You get a shade
+when you add black to a
+color. A monochromatic
+color scheme consists
+solely of tints and shades
+of one color, like a sepia
+photograph.
+
+Although the color
+wheels make it easy and
+fun to create a color
+scheme, they encapsulate
+important design
+theories. If you just make
+up your own set of
+colors, without reference
+to the color wheel,
+there’s a good chance
+they’ll clash.
+
+57
+
+l
+
+Think of a starting color. You could take it from your
+company logo, your favorite color, or from the association
+of a color with a particular meaning or mood. Red spells
+danger or romance, green references nature, and blue
+communicates stability, for example. If you have an image
+that will be a prominent part of your design, you could
+take the color
+from that. The
+pipette tool in
+Photoshop can
+be used to grab
+a color from a
+photo, so you
+can find out
+its RGB color
+number.
+
+Layout and Design
+
+...cont’d
+
+58
+
+Above: Contrast-A, by
+Das Plankton, offers
+much more in-depth
+analysis of contrast. It’s
+free to use at http://
+www.dasplankton.de/
+ContrastA/ and can
+also be downloaded for
+free from the Adobe
+Marketplace.
+
+Don’t be afraid to use
+black on white for large
+areas of text. It offers
+the best contrast, so it’s
+easy to read. Most of the
+major websites (including
+search engines, news
+sites, shops, and social
+networks) use black text
+on a white background
+for their core content.
+
+Right: The Color Contrast
+Checker helps you make
+sure your foreground
+and background
+colors make a legible
+combination.
+
+l
+l
+3
+
+Choose your starting color. You usually do this by clicking
+it on a color wheel. Using Kuler, you can also type in a
+hex value of the color or its RGB value.
+
+4
+
+Choose what type of color scheme you would like to
+create. You have several options here. A monochromatic
+scheme uses shades of one color. A complementary
+scheme uses two colors that are directly opposite each
+other on the color wheel. A triad uses three colors that
+are the same distance apart on the wheel. There’s also a
+split complement triad, which uses one color, and the
+two colors beside its complement on the other side of the
+wheel. An analogous color scheme uses colors that are
+next to each other on the color wheel. Experiment to see
+what works well for you.
+
+l
+l
+5
+
+Note the color numbers in the palette provided. You’ll
+need to put them in your CSS code later.
+
+6
+
+To make sure that your site is easy for everyone to read,
+it’s important to make sure there is enough contrast
+between your foreground and background colors.
+Take a screengrab of your color combination (text on
+background) and then use an art package to make it
+grayscale, to see how legible it is. Alternatively, enter your
+colors into the Color Contrast Check at http://snook.
+ca/technical/colour_contrast/colour.html. It will tell you
+whether your colors comply with accessibility guidelines.
+
+Using Gradients
+Solid blocks of color can be overwhelming, if the color is a warm
+one like red or yellow, or might just look a bit flat if not. That’s
+why websites often use a gradient instead, where one color fades
+into another. The easiest way to do this is to create a background
+image that represents part of the gradient, and then repeat it.
+For example, this stripe of color:
+
+is set as a repeating background on the website for web surfing
+game Wild Mood Swings (www.wildmoodswings.co.uk), like this:
+
+You can also put
+an image in the
+background, to add
+texture to your page.
+You could use a photo
+of wood or a wall, or
+something more subtle,
+like sand. Carbon
+offsetting company
+Carbonica (www.
+carbonica.org) uses a
+photo of brown paper
+in the background, to
+complement the cloth
+texture in its design.
+
+59
+
+You can use a gradient to
+soften any area of color,
+however big it is. You could
+apply a gradient image as the
+background to a button, to
+give it a 3D look that makes
+it stand out.
+Fresh Books (www.
+freshbooks.com) uses a
+gradient on its navigation
+tab and its button, as well
+as in its blue background.
+Central Snowsports (www.
+centralsnowsports.com.
+au) uses gradients in its
+predominantly pink design, to
+create a sense of texture.
+
+The design gains a
+sense of unity when
+a few well-selected
+colors are repeated
+throughout the design.
+Fresh Books uses the
+same contrasting green
+color to call attention to
+its navigation tab and
+its pricing button, for
+example. The site could
+have used two different
+colors, but it looks better
+to repeat one.
+
+Layout and Design
+
+Choosing Fonts
+
+60
+
+Don’t get carried
+away with fancy fonts:
+remember the most
+important thing is that
+people can comfortably
+read your message.
+
+See Chapter 7 for details
+of which fonts are safe
+to use in your content,
+and advice on using CSS
+to style your web page
+content.
+
+If you specify very
+different fonts, test your
+website to see how it
+displays with each of
+them. Sometimes the
+spacing of text changes
+significantly when
+different fonts are used.
+
+The style of text you use on your website has a huge impact on its
+design. Some fonts are playful, some are business-like; some speak
+of tradition, while others look futuristic. All this information is
+conveyed before somebody has even read what the text says.
+You should use fonts that convey the personality of your site,
+where possible, although there are lots of technical limitations on
+this. When the web browser displays text, it uses the fonts on the
+visitor’s PC. That means you’re limited to a relatively small set of
+safe fonts if you want everyone to see the same thing.
+However, you can give the
+browser a list of font options,
+so you could request a daring
+and relatively rare font and give
+the browser a safe substitute
+if that font isn’t available. You
+could use a font that comes
+with Adobe Creative Suite or
+Microsoft Office, for people
+who have those packages, for
+example, and declare a basic
+font that comes with the
+operating system, as a back-up.
+For small pieces of text, such
+as a headline, you could create
+a picture that shows the text
+and put that in your web page.
+That approach is always used
+for logos, and could also be used for small headlines, but it should
+be used selectively. It makes your web page slower to load, creates
+a lot of work for you, in building and editing the site, and makes
+it harder for search engines and users of assistive technology to
+understand your content. If you’re using Flash, you can embed
+a font in your Flash file, too, so you can send the font over the
+internet with your content.
+Pay attention to the size of the text and its color. Some fonts look
+good at larger sizes but not at smaller, and vice versa. You can use
+color to change how heavy the font looks on screen, too. A big
+blocky font can be softened by changing its color from black to
+blue, for example.
+
+What is Your Look and Feel?
+The look and feel of your website is what results from all the
+decisions you make about its content and design.
+It is a combination of:
+
+The images you use. Both the style of your content images
+• and
+photography, and the choice and arrangement of any
+decorative images.
+
+• The attitude suggested by your text, and the language it uses.
+• The color scheme you have chosen.
+The fonts you use to convey your information and draw
+• attention
+to important elements.
+way you arrange elements on the page to accentuate what
+• isTheimportant.
+
+Using design elements consistently sends a signal to your visitors
+that you’ve paid attention to the details. It’s easy to put things
+onto a screen. It takes more care to combine them so that they
+look like they belong together in a single design. Work within a
+palette of four or five colors (plus shades or tints, as appropriate).
+Make the spacing between different elements on your web page
+consistent. Choose one or two fonts and use them throughout.
+The rule of thumb is that, if things look similar, they should be
+exactly the same. If they’re nearly the same, it just looks sloppy. If
+you don’t want things to look the same, then make them radically
+different. Leave no doubt that you have deviated from the norm
+to add contrast or emphasis, or to call attention to them.
+When you’re developing the elements of your look and feel,
+keep your intended audience in mind. Think about the kinds of
+magazines they read, the TV shows they might watch, the films
+they prefer, and their favorite websites (until yours is built, at
+least). Use a visual language that will make them feel at home.
+
+61
+
+You need all these elements to work in harmony. If you were
+promoting an industrial rock band and had lots of metallic
+textured images, it would look strange to have a fancy handwritten
+font, or lots of bright kid-friendly colors. Sometimes you can
+subvert conventional wisdom, but it’s usually better to play it safe.
+
+Professionals often
+create the look and feel
+in an art package, like
+Photoshop. They make
+an image of the whole
+web page. This image
+can then be sliced up to
+make the background
+and foreground images
+that will form part of the
+finished website.
+
+Layout and Design
+
+62
+
+The Right Look and Feel
+Don’t let brand
+guidelines constrain
+you into creating a
+poor web experience.
+Sometimes there’s a
+conflict between a
+company’s brand and
+what works well on the
+web. Large companies
+often revise their offline
+brand guidelines, for
+consistency with the
+website, rather than
+forcing the web to
+adopt a style that was
+developed for print.
+Many companies believe
+the most important
+thing is that the website
+offers a consistent
+experience that is an
+extension of the brand,
+and not necessarily that
+it replicates the printed
+materials.
+
+I’ve chosen obviously
+contrasting examples
+here, but you can see
+that if you swapped the
+design of these websites
+around, their audiences
+would be repelled.
+You don’t have to use
+guesswork. You can
+invite members of your
+audience to give you
+feedback on every stage
+of your design.
+
+To understand the importance of the look and feel, let’s take a
+look at three websites that cater for different audiences.
+Saga (www.saga.co.uk) offers services, including insurance and
+holidays, to the over 50s. The homepage is clear and easy to
+navigate but offers lots of options. It’s designed to work on an
+older computer with an 800x600 screen and has an option to
+enlarge the text.
+The Mr Men website (www.mrmen.com/uk) is designed for
+children to use by themselves. There are few navigation options,
+which are shown using bold icons. The color palette is bold and
+exciting, and Flash animation is used to bring the characters to
+life. A voice tells children what the buttons mean when they roll
+the mouse over them.
+The website for heavy rock magazine Metal Hammer (www.
+metalhammer.co.uk) has a gritty and dirty look to it, with paint
+and blood splattered in the background. It reflects the look of the
+magazine and the aesthetics of heavy metal album artwork.
+
+Index
+Symbols
+3D look
+960 Grid System
+
+average time on site
+AWStats
+
+227
+224
+
+59
+53, 131
+
+B
+A
+
+C
+cartoon images
+45
+cascading style sheets. See CSS
+checkboxes
+94
+checking form ﬁelds
+147
+class, in CSS
+120
+
+233
+
+accessibility
+18–20, 83–84, 101, 108
+accessibility checkers
+20
+alternative text
+19
+Web Content Accessibility Guidelines
+(WCAG)
+20
+Adobe Dreamweaver
+171–174
+snippets
+174
+templates
+172
+website preview
+172
+widgets browser
+173
+Adobe Flash
+15, 79, 159–166
+adding animation
+163–166
+adding audio
+162
+add video
+161
+adverts made in
+220
+progress meter
+166
+advertising
+56, 218–220
+IAB advert sizes
+220
+pay-per-click (PPC)
+218–219
+Adwords. See Google Adwords
+afﬁliate programs
+221
+Ajax
+15
+Alexa
+26
+aligning content
+54
+alternative text
+18, 19, 88
+for plug-ins
+166
+sample code
+106
+Amazon
+52, 77, 79, 177, 221
+anchor tag
+89, 106
+animation
+Adobe Flash
+163–166
+GIFs
+46
+apostrophe, in Javascript
+141, 153
+audio
+158, 162
+
+background
+58–59, 61, 133
+back button
+84
+bandwidth
+31, 155, 224, 227
+banner advertising. See advertising
+Bing
+210
+bit.ly
+228
+blog
+39, 64, 66
+tag cloud
+79
+Blogger
+192, 195
+border
+135
+border, in CSS
+116–117
+box model
+116, 135
+brackets
+in CSS
+110
+in HTML
+86
+in Javascript
+141, 146
+Braille display
+11, 108
+brand guidelines
+62
+breadcrumb trails
+77
+browsers
+11, 13, 108, 208
+browser trends
+52
+bulleted lists
+56, 99
+buttons
+in forms
+94
+shopping cart
+180–183
+using CSS
+128
+
+Index
+
+234
+
+class, in HTML
+118
+class name
+120
+CoffeeCup HTML Editor
+57
+colors
+changing using CSS
+112–113
+colorschemedesigner.com
+57, 113
+Color Contrast Checker
+58
+color schemes
+57
+gradients
+59
+hexadecimal codes
+112
+overview
+57–59
+RGBA
+113
+tools
+57
+commenting code
+in CSS
+136
+in HTML
+101
+in Javascript
+151
+comments on your site
+191–192
+comparisons, in Javascript
+151
+compression, images
+46–47, 88
+content
+alignment
+54
+ideas
+38–39
+content management system (CMS) 194
+cookies
+226
+copyright
+39, 44
+copyright symbol
+105
+cost per click (CPC)
+219
+cost per mille (CPM)
+220
+Creative Commons
+44
+CSS
+108–136
+border
+116
+class
+120
+deﬁnition of
+14, 108
+frameworks
+131
+grouping statements
+110
+margin
+116
+padding
+116
+reference tables
+132–136
+selectors
+120
+sprites
+46
+style conﬂict
+111
+style sheet
+111
+wrappers
+118
+customized error page
+82
+
+D
+data collection. See forms
+date, customizing content by
+150
+date picker
+156
+deﬁnitions
+CSS
+14
+Flash
+15
+HTML
+14
+Java
+14
+Javascript
+14
+degrading gracefully
+16
+description meta tag
+215
+design
+above the fold
+55
+alignment
+54
+dividing the page
+118
+ﬁxed or ﬂexible
+51–52
+for different devices
+11, 12
+for mobile devices
+17
+goals
+50
+pages in CSS
+122–124, 134
+variable content
+52
+display:none
+130
+Disqus
+191
+div tag
+118
+DOCTYPE
+87
+domain names
+32–34
+domain extensions
+33, 34
+donations, accepting
+181
+Dreamweaver. See Adobe Dreamweaver
+dropdown menu
+70
+Drupal
+53, 194
+
+E
+eBay
+17, 70, 79, 94, 177, 219
+ecommerce
+176–183
+fees
+176
+setting up PayPal
+177–184
+editors
+169, 206
+
+email
+email newsletter
+linking to email address
+error messages
+event name, Javascript
+
+222
+84, 106
+82
+142
+
+F
+
+games
+39, 78, 139, 159
+GIFs
+46
+goals, analytics
+231
+Google
+75, 202
+Google Adwords 210, 212, 218–219
+cost per click (CPC)
+219
+Google Analytics
+225–227
+goals
+231
+Google Display Network 219, 219–220
+Google Font API
+115
+Google image search
+72–73
+Google Insights for Search
+212
+Google Keyword Tool
+212
+Google Maps
+48
+Google Reader
+222
+search for your site
+80
+Google Adsense
+25, 81
+gradients
+59, 163
+grid design
+53
+grouping options
+67
+
+H
+headers, HTML
+87, 104
+headings, in HTML
+56, 86, 100, 110
+hexadecimal
+112
+hiding content
+144
+hierarchy of information
+56
+hits
+See also web analytics
+227
+homepage
+74–75
+naming on server
+207
+optimizing for search
+214
+submitting for search
+217
+hosting
+31, 207
+href
+89
+HTML
+86–106
+adding links
+89
+adding pictures
+88
+creating tables
+90
+deﬁnition
+14, 86
+
+235
+
+Facebook
+25, 64, 187
+favorites icons
+104
+ﬁlename
+32, 86, 203
+ﬁxed width layout
+51
+Flash. See Adobe Flash
+Flash Media Encoder
+161
+ﬂexible width layout
+51
+Flickr
+25, 44–48, 190
+fold, content above the
+55
+folders
+32, 106
+Fontdeck
+115
+fonts
+60
+choosing
+60, 115
+embedding in web pages
+115
+font-family
+114
+sans-serif and serif
+114
+formatting
+stripey tables
+156
+tables for layout
+92
+forms
+93–98, 105
+compulsory ﬁelds
+97
+creating
+93
+ﬁelds/elements
+94
+HTML5 input types
+97–98
+input tag
+96
+labels
+96
+on mobile devices
+95
+reset button
+95
+submission script
+93
+validation
+147–149
+forum, installing a
+186
+framework, CSS
+131
+FTP
+206–207
+functions in Javascript
+141
+
+G
+
+Index
+
+editors
+header text
+page structure
+positioning elements
+reference tables
+using Microsoft Word
+validation tool
+HTML5
+document structure tags
+form inputs
+
+169
+104
+87
+126
+103–106
+168
+102
+87, 103
+119
+97
+
+236
+
+I
+icons
+72–73
+favorites
+104
+iPod home screen
+104
+if...else
+146
+images
+42–47
+<img> in HTML
+88
+alternative text
+88
+as a link
+89
+compression
+46–47, 88
+image source
+88
+overlapping
+126
+resizing
+47
+stock photography
+43
+information box
+66
+information hierarchy
+56
+input tag
+96–97
+HTML5 types
+97
+integrating
+with Facebook
+187
+with Twitter
+188
+Internet Advertising Bureau
+220
+iPad, iPhone, iPod
+11, 95, 104
+Irfanview
+47
+
+J
+Java
+14
+Javascript
+14, 138–156
+adding to your page
+140
+comparisons
+151
+customising messages
+150
+event name
+142–143
+external ﬁles
+140–156
+form validation
+147
+functions
+141
+hour, day, week, month
+150
+jQuery library
+155
+new windows
+152
+photo slideshow
+154
+responding to user
+142
+showing and hiding content
+144
+timer
+143
+toLowerCase
+148
+Joomla
+194
+JPEG
+46
+quality level
+47
+jQuery
+36, 155, 156
+
+K
+keywords
+in search
+keyword advertising
+
+211
+218–219
+
+L
+labels, for form elements
+landing pages
+launching your site
+beta launch
+layer
+layout. See design
+Like Button
+links
+
+96
+227
+202–208
+202
+163
+187
+
+anchor tag
+89, 106, 216
+checking
+84
+color
+76, 128
+email addresses
+84
+hover links
+84
+link building
+221
+one way/reciprocal
+216
+PDFs, linking to
+84
+shortening using bit.ly
+228
+tips for effective
+83–84
+lists
+99, 106, 127, 128–129
+styling with CSS
+127
+logs, server
+224
+look and feel. See design
+
+breadcrumb trails
+dropdown menu
+explorative
+grouping the options
+layout
+pop-up menu
+process map
+subheadings
+subnavigation
+tabbed
+tips
+number of visits
+
+77
+70
+78
+67
+65
+70, 198
+77
+67
+69
+68–69, 76
+56
+227
+
+O
+M
+
+N
+navbar
+changing look
+creating in CSS
+navigation
+
+64, 66–67, 102, 103
+76
+128–129
+64–84
+
+177
+84, 152
+210
+21
+126
+
+P
+padding
+pages/visit
+page views
+pay-per-click (PPC)
+Bing
+Google Adwords
+payment
+accepting online
+service provider
+storing details
+PayPal
+accepting donations
+Button Factory
+convert currencies
+creating an account
+subscriptions
+
+116
+227
+227
+218
+218–219
+177
+176
+94
+177–184
+181
+180
+177
+179
+181
+
+237
+
+maps
+48
+margin
+116
+measuring visitors. See web analytics
+media packs
+220
+menus. See navigation
+merchant account
+176, 180
+meta tags
+104, 215
+metrics
+227–228
+Microsoft Word
+22, 168
+mobile devices
+11, 17
+moderating comments
+192
+Movable Type
+195
+MP3
+158
+adding a player
+162
+multiline text box
+98
+MySQL/PHP
+15, 178, 203
+
+on demand printing
+opening new windows
+ordered lists. See lists
+organic search
+outsourcing web design
+overlapping images
+
+Index
+
+238
+
+Website Payments Pro
+PDFs
+linking to
+photos
+compression
+sharing using Flickr
+slideshow
+stock photography
+using
+PHP/MySQL
+Wordpress
+pictures. See images
+Pixton
+placing search terms
+planning your website
+content
+market research
+purpose
+plug-ins
+Flash
+PNGs
+pop-up blockers
+pop-up menu
+popular products
+positioning
+printer-friendly pages
+process map
+product categories
+promoting your site
+email newsletters
+email signature
+Twitter
+property, CSS
+publishing your site
+
+178
+40, 45
+84
+46–47, 88
+190
+154
+43
+44
+15, 178, 203
+195–200
+45
+214–215
+38–39
+26
+24
+159, 166
+46
+152
+70, 198
+79
+126
+130
+77
+74
+210–222
+222
+221
+222
+110
+206–207
+
+Q
+qualiﬁers, search engine
+
+211, 213
+
+R
+radio buttons
+random content
+ranking in search engine
+recommendations
+resizing images
+responding to users
+in Javascript
+revealing content
+RGBA
+robots.txt
+rowspan
+RSS
+
+94
+153
+210
+187
+47
+142
+144
+113
+224
+92
+222
+
+S
+sans-serif
+114
+scanner
+42
+screen sizes
+12–13, 51, 62
+scripting languages
+15
+search engine, adding to your site 80–81
+search engine optimization See SEO
+seasonal messages, display
+150
+selectors
+110, 120–121
+select menus
+94
+selling online. See ecommerce
+SEO
+210–217
+Google Adwords
+210
+Google Keyword Tool
+212
+how people search
+211
+keywords
+211
+placing search terms
+214–215
+qualiﬁers
+211, 213
+ranking
+210
+researching key phrases
+212
+search and replace
+169
+spiders
+217
+submission
+217
+top tips
+216
+serif
+114
+server logs
+224
+
+Getsatisfaction survey
+192
+implementing improvements
+231
+Survey Monkey
+229–230
+symbols (HTML codes)
+105
+symbols (icons)
+72–73
+syndication
+221
+
+T
+tabbed navigation
+66–68
+tables
+90–92
+adding stripes
+156
+ensuring accessibility
+101
+for layout
+92
+headings
+90, 91
+HTML reference
+106
+spanning rows/columns
+92
+using for layout
+92
+tagline
+75
+tags
+86, 100
+adding classes
+120
+HTML reference
+105
+meta tags
+104
+tag cloud
+79
+testing
+86, 203–205
+case sensitivity
+203
+shopping cart
+184
+staging server
+203
+usability testing
+205
+text
+86
+styling
+100, 114–115, 132
+text editor
+86
+text entry
+94
+textarea
+94, 98
+textbox
+94, 96
+text box checking
+148
+thumbnails
+47
+timeline, Adobe Flash
+160
+toggle visibility
+in Javascript
+146
+in jQuery
+156
+tools
+HTML and visual editors
+169
+
+239
+
+Share button
+189
+shopping cart
+66, 178–184
+showing and hiding content
+in Javascript
+144
+in jQuery
+156
+sidebars
+66
+sIFR
+115
+Silverlight
+15
+SiteCatalyst Netaverages
+52
+sitemap
+28–29, 67
+Sitemeter
+228
+site metrics. See web analytics
+slideshow, photo
+154
+social features
+186–192
+Adding a ‘Share This’ Box
+189
+adding comments
+191
+business case for
+186
+Facebook integration
+187
+Flickr for photos
+190
+forum
+186
+interaction vs moderation
+186
+moderating comments
+192
+Twitter integration
+188
+souvenirs, creating
+222
+span tag
+118
+spiders
+217
+sprites, CSS
+46
+Spry
+174
+stage, Adobe Flash
+160
+staging server
+203
+Statcounter
+228
+stock photography
+43
+style sheets
+111
+adding
+104
+different media
+130
+style conﬂict
+111
+styling text. See text, styling
+subheadings
+56
+using
+67
+submitting your site
+Google, Bing and Yahoo
+217
+subnavigation
+69
+subscriptions, accepting
+181
+suggestions, adding
+79
+surveys
+229–230
+
+Index
+
+HTML validation
+Microsoft Word
+PayPal Button Factory
+PayPal payment suite
+touch screen devices
+transactions
+transparent images
+Twitter
+integrating on your site
+tweet button
+typography. See fonts
+
+102
+168
+180
+178
+12, 71, 84
+176
+46
+25, 222
+188
+188
+
+240
+
+U
+unique visitors
+units of measurement
+CSS
+updating your site
+URLs
+usability testing
+
+227
+116
+208
+32
+205
+
+metrics
+227–228
+server logs
+224
+unique visitors
+227
+Web Content Accessibility Guidelines
+(WCAG)
+20
+web designers
+35–36
+widgets browser
+173
+windows
+open new in Javascript
+152
+tips for opening
+84
+Wordpress 36, 189, 192, 195–200, 203
+add a post
+199
+add pages
+198
+manage comments
+192, 200
+tagging posts
+199
+theme
+197
+wrapper
+118
+writing for the web
+40–41
+
+X
+XHTML
+
+88
+
+V
+value, CSS
+110
+variable content design
+52
+video
+14,
+15, 19, 24, 28, 38–39, 75, 210, 222
+adding using Flash
+161
+visitors. See web analytics
+visual editors
+170
+
+Yahoo
+Yahoo Media Player
+Yahoo User Interface CSS
+YouTube
+
+210, 217
+158
+131
+161
+
+Z
+
+W
+W3C standards
+web analytics
+bandwidth
+Facebook
+hits
+
+Y
+
+102
+224–231
+227
+187
+227
+
+z-index
+Zen Garden
+
+126
+109
+
+

@@ -1,0 +1,3079 @@
+Teaching For Success® Faculty Success Center presents
+
+QuickCourse Series
+
+How to Create a Lesson Plan that Works
+
+©Pentronics Publishing 2010
+
+1
+
+©Pentronics Publishing 2010; all rights reserved:
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+W
+
+How to Create a
+Lesson Plan that Works
+
+ithout lesson plans, effective course presentation is
+at best suspect and at worst a
+gamble. If you refuse to gamble
+with your students’ learning outcomes, apply the advice and principles
+explained
+in
+this
+QuickCourse to your course.
+
+Written by:
+David Warner
+Edited by:
+Jack H. Shrawder, Publisher/editor, Teaching For Success,
+<t4s@thegrid.net>.
+
+learning objective, you may wish to move ahead to Chapter 5,
+“An Engaging Format.”
+TFS QuickCourses are self-paced, self-study learning resources
+for faculty who want to improve their skills. A knowledge test is
+provided at the end of this course you can see if you understood
+the basics of each section. In addition, you will find a Learning
+Objective form and a Lesson Plan Activity template to help you
+more quickly and easily plan your next lesson or course using the
+information presented here.
+The goal of this QuickCourse is to give you the tools to plan
+a series of effective lessons that can be combined into a course
+that will help your students master the learning outcomes you
+desire.
+The fact that you are reading this means you are already in the top
+10 percent of instructors—those who care enough to improve their
+knowledge and skills. The knowledge and tips in this QuickCourse
+will boost your career effectiveness and make teaching a rewarding
+experience for you and learning more efficacious and satisfying for
+your students.
+
+1 I
+
+What’s in It for Me?
+
+f you value good teaching and achieving
+optimum learning results for your students,
+then this Teaching For Success QuickCourse is for you. It will
+help you develop and refine a critical teaching skill—creating
+effective learning objectives and formulating lesson plans that
+will achieve the outcomes you desire. Building successful lesson
+plans is where the rubber meets the road in education. This is the
+key to developing effective teaching and learning sessions. This
+QuickCourse is especially for those who believe, as we do, that
+“just talking isn’t teaching.”
+If you are new to teaching, you’ll first want to know: “What
+are learning plans, and why should I know how to generate
+them?” If you are an experienced instructor and can list and
+define Bloom’s six levels of thinking and know how to write a
+2
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+2
+
+Plans? Why Bother?
+
+O
+
+ne way to look at lesson
+planning is to consider
+how a stone mason would build
+a cathedral. After reviewing the
+architectural plans, the mason
+expertly begins shaping each
+block and then positions these
+blocks in an appropriate sequence to complete the architect’s vision.
+
+A
+
+good lesson plan helps you carry out the
+all-important task of setting goals and
+describing how you will reach them. A lesson plan is the road map
+or framework used to plan and conduct every class from first
+meeting to final exam. In addition, lesson plans ensure you have
+created a logical, systematic learning process essential to making
+sure your students achieve the most learning in the least time.
+Sure, you can walk into class without any forethought or lesson
+plans and talk your way through a class session or two, but fairly
+soon the lack of organization will become apparent to your students.
+Winging it will soon reduce your students’ interest and motivation
+to study and participate in your class. After all, they reason that if
+you aren’t going to put much effort into creating a first-class learning
+experience, why should they put much effort into learning?
+
+course presentation is at best suspect
+and at worst a learning gamble.
+Cathedral metaphor
+One way to look at lesson planning is to consider how a stone
+mason would build a cathedral. After reviewing the architectural
+plans, the mason expertly begins shaping each block and then
+positions these blocks in an appropriate sequence to complete
+the architect’s vision.
+Similarly, do what the expert lesson planners do: first review
+all available course documents. Particularly, look for documents
+that have recorded the following for the course:
+q Objectives.
+q Description.
+q Syllabus.
+You will use the information in these documents along with
+a working knowledge of learning objectives, lesson components,
+and instructional design gleaned from this course to create a
+series of optimized learning experiences for each class session.
+If you do this, the learning activities you create will work
+together to function like the rows of blocks that form the most
+elaborate stone structures. Just as a mason needs many kinds
+of blocks to realize a construction design, you will often need a
+
+It’s your time
+When you make an effort to become comfortable creating lesson
+plans, you save yourself a great deal of time and reduce the stress of
+dealing with confused and sometimes angry students whose poor
+performance is a direct result of poorly designed lessons.
+You owe it to yourself and to your students to learn the
+fundamentals of lesson planning and put them to use each time
+you prepare for a class meeting or construct an entire course.
+Richard Pregent (1994) observes that “professors who have
+carefully prepared lesson plans save an enormous amount of
+time when you teach a course again; you have a written record
+of everything you have done” (p. 97). Without plans, effective
+3
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+A
+
+lthough not always possible, try to schedule a meeting with your coordinator, department chair, or dean to
+review additional course requirements and to learn about institutional expectations for faculty
+performance.
+
+variety of lessons to fulfill a single course objective. Taken together,
+your series of lessons should complete each course objective to
+produce the finished, cohesive course, like the individual blocks
+that make up a beautifully crafted cathedral wall.
+Taking the analogy one step further, a student’s academic career
+success is built on a sound educational foundation, comprised
+of interwoven courses, and it all begins with the quality of each
+lesson block. Thus, each of your lesson plans constitutes a crucial
+part of your students’ success.
+That’s what lesson plans are all about—student success and
+achievement—and that’s why you should care greatly about
+learning the tips, strategies, and techniques presented in this
+course.
+
+also can provide you with a faculty or instructor handbook.
+In addition, ask if a course specification sheet is available that
+includes information on course objectives and expected student
+performance outcomes and/or competencies.
+Also, read the official course catalog or bulletin to understand
+the official description of your course. This is important, because this
+statement is the one your students use to make course selections.
+In summary, at the very least, you need the course topics
+outline and list of instructional objectives (also called outcomes
+or competencies) and information on textbooks that may have
+already been chosen for you or from a text that you have chosen.
+Although not always possible, try to schedule a meeting with
+your coordinator, department chair, or dean to review additional
+course requirements and to learn about institutional expectations
+for faculty performance.
+After a thorough review of all the supporting documents, you
+are ready to develop your lesson plans. But what are you really
+trying to create, and how can you do it easily? These questions will
+be examined in detail in upcoming chapters.
+“Action without thinking is the cause of every failure,” says
+Peter Drucker. Planning your classes without giving them much
+thought is not for you. The next chapter will introduce learning
+objectives.
+
+Before you begin
+Before you begin the process of creating lesson plans, obtain
+the course outline and syllabus. Without these two planning
+resources your only recourse is to shoot from the instructional
+hip—substantially reducing the likelihood of creating successful
+lesson plans.
+How can you obtain a course outline and syllabus? If you are
+new to teaching, you need to know that a traditional college or
+university is usually divided into departments coordinated by
+department chairs, or if the departments are small, a division dean
+may administer a group of related departments. If your college
+has neither department chairs nor division deans, then academic
+matters such as course forms will be the responsibility of a provost,
+vice president or dean of instruction or academic affairs.
+Contact the appropriate administrative office at your college or
+university and ask for a course outline, syllabus, and course catalog
+description for the course(s) you will teach. Some institutions
+4
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+3
+
+Being Objective
+
+L
+
+earning objectives are
+statements, usually of a
+behavioral nature, that specify
+what a student will be able to
+do after the lesson is completed. The theory is that learning
+produces measurable or demonstrable changes in learners’ thinking skills, physical capabilities or attitudes.
+
+T
+
+here is one foundational concept you
+must understand in order to create
+successful lesson plans: learning objectives and their variant,
+learning outcomes. These two terms refer to concepts used at all
+levels of education. If you want to discuss instruction and lesson
+planning intelligently with your colleagues and administrators,
+it’s necessary to develop a working knowledge of these common
+terms.
+Learning objectives are statements, usually of a behavioral
+nature, that specify what a student will be able to do after
+the lesson is completed. The theory is that learning produces
+measurable or demonstrable changes in learners’ thinking skills,
+physical capabilities, or attitudes. Therefore, lessons can be
+constructed to reach one or more specific learning objectives.
+The formal learning objective was created by those who
+believed it was not good enough to create a lesson plan in which
+the major stated goal was to “cover the material.” They felt
+learning could be enhanced by greater specificity—basing lesson
+plans on clearer, more focused learning objectives.
+Unfortunately, the learning objective concept was at times
+taken to extremes, and if one learning objective was good, then
+ten even more specific objectives subdividing a major objective
+were even better. Teachers in the 1960s and 70s sometimes felt
+they were spending all their time writing lists of learning objectives
+and not paying enough attention to actual instruction.
+According to the work of Ralph Tyler and Benjamin Bloom
+in the 1950s, mental or cognitive learning can be understood as
+
+a hierarchy beginning at the concrete level and moving to the
+more abstract. Arranging their cognitive skill structure from the
+simplest to the most complex, it looks like this:
+q Knowledge.
+q Comprehension.
+q Application.
+q Analysis.
+q Synthesis.
+q Evaluation.
+Including cognitive learning, three domains or taxonomies
+of learning have been developed for each of the major types of
+learning:
+q Cognitive learning relates to knowledge and mental
+skills.
+q Affective learning involves feelings and emotions;
+this type of learning relates to the attitudes, beliefs,
+interests, or values the student will acquire as a result
+of the lesson, such as developing appreciation for
+a particular musical style or placing ethics above
+profit.
+q Psychomotor learning involves the acquisition of
+physical skills, either kinesthetic or tactile. Successfully
+5
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+T
+
+he fuel gauge in a car is offered as an example to
+make clear the meaning of each
+of the levels that comprise the
+cognitive domain of learning.
+We’ll start with the most basic
+and easiest level and then work
+toward the most complex.
+
+executing basketball free throws and performing a
+specific brush stroke are examples of psychomotor
+skills.
+To keep this course at a reasonable length, we’ll limit this
+discussion to a brief explanation of the categories that describe
+the cognitive domain of learning. You may wish to expand your
+knowledge to the other two domains by doing an Internet
+search. One site with information on all three domains can be
+found at: <http://www.olemiss.edu/depts/educ_school2/docs/
+stai_manual/manual10.htm>.
+Next, you’ll learn how to use these categories to create learning
+objectives. The fuel gauge in a car is offered as an example to
+crystallize the meaning of each of the levels that comprise the
+cognitive domain. We’ll start with the most basic and easiest level
+and then work toward the most complex.
+
+amount of fuel left in the tank from the gauge reading and know
+whether or not the reading requires the operator to take action,
+he or she is comprehending the meaning of the gauge reading.
+
+Therefore, at the comprehension level, students:
+q Estimate.
+q Predict.
+q Explain.
+q Summarize.
+
+Knowledge
+Knowledge refers to the remembering of basic facts, terms,
+labels, methods, principles and, concepts. For example, knowing
+that a fuel gauge displays the volume of fuel in a tank is
+rudimentary knowledge.
+At the knowledge level, thinkers:
+q Define.
+q Name.
+q Match.
+q Select.
+
+Application
+Application describes using the knowledge and comprehension
+skills in new or practical situations. At this level the student can
+take the fuel gauge data along with an odometer reading and
+calculate miles per gallon.
+At the application level, learners:
+q Compute.
+q Demonstrate.
+q Use.
+q Prepare.
+
+Comprehension
+Comprehension is about understanding what knowledge
+means. For example, learning what information a fuel gauge
+displays is a form of knowledge, but when a student estimates the
+
+Analysis
+Analysis is about dividing the whole into parts and identifying
+the components and relationships between the parts that make
+up a system or larger item.
+6
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+A
+
+t the synthesis level, the
+student has learned sufficient knowledge, and gained
+adequate comprehension, application and analysis skills to
+learn how to put together a
+fuel measuring system from
+components.
+
+At this level, the student learns that there are electronic,
+fluid, and mechanical fuel gauges. He or she learns the parts
+that make up the fuel gauge system from the measuring and
+sending unit in the tank to the display unit on the dashboard
+or instrument panel.
+At the analysis level, students:
+q Diagram.
+q Outline.
+q Subdivide.
+q Discriminate.
+
+cost-effective solution to the fuel measurement problem at hand.
+At the evaluation level, the student:
+q Compares.
+q Criticizes.
+q Justifies.
+q Supports.
+In many classes, there tends to be an overabundance of
+teaching to the knowledge and comprehension levels and a
+dearth of effort applied toward application, analysis, synthesis,
+and evaluation. Yet these top four levels comprise the bulk of
+thinking needed to solve problems and to implement solutions.
+Furthermore, students who are adept at problem solving and
+building innovative solutions will find their careers advancing
+faster and to higher levels than students who know a lot but
+cannot readily apply their knowledge. To learn to apply what
+this chapter teaches about learning objectives, you must learn to
+think like Bloom, and that’s coming up next.
+
+Synthesis
+Synthesis is the inverse of analysis: combining the parts into
+a new whole.
+At this level the student has learned sufficient knowledge
+and gained adequate comprehension, application, and analysis
+skills to learn how to put together a fuel measuring system from
+components. The student is thinking at the system level, and
+could well design and build a different type of structure from
+what currently exists.
+At the synthesis level, the student:
+q Categorizes.
+q Rearranges.
+q Combines.
+q Composes.
+Evaluation
+Evaluation is the pinnacle of cognitive learning and is
+concerned with the ability to determine the value or worth of
+something. The student at this level could critique a fuel gauge
+design and recommend improvements, or determine that is not a
+
+In all human affairs there are efforts, and there are
+results, and the strength of effort is the measure of
+the result. 							
+					
+—James Allen
+7
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+4
+
+L
+
+Thinking Like Bloom
+
+earning objectives help you
+walk through any complex
+subject in a clear and balanced
+fashion. They should be phrased
+in any way that makes sense to
+you and is easily communicated
+to your students your supervisor.
+
+T
+
+he easiest way to become further
+acquainted with Bloom’s taxonomy of
+cognitive skills is to work a practical example through all the
+levels, from comprehension to evaluation. In this chapter, we’ll
+create a set of learning objectives for teaching a module on fuel
+gauge systems to automotive technicians at each of the six levels
+of cognitive learning. Now, admittedly, the human brain does
+not precisely support such a breakdown of thinking skills into
+these compartments, but the system will help you plan lessons
+that contain more complex learning.
+Knowledge—given an instrument panel comprising several
+gauges and indicators, the student correctly locates and labels
+the fuel gauge.
+Comprehension—given a fuel gauge reading three-quarters
+full, the student predicts whether the vehicle’s engine will start
+and run.
+Application—given the miles a vehicle is driven and the fuel
+gauge reading at the start and end of the trip, the student will
+calculate the fuel efficiency of the vehicle in miles per gallon.
+Analysis—given the vehicle’s repair manual, the student can
+identify the wiring and parts of the fuel gauge system.
+Synthesis—given the voltage readings at various points of the
+fuel gauge system, the student identifies the defective part.
+Evaluation—given the design specification for a new vehicle,
+the student describes the most cost-effective fuel gauge system
+design and the design trade-offs among accuracy, reliability,
+maintainability, and installation cost.
+
+Learning Outcomes
+Lesson plans, then, are created from an organized set of
+specific learning objectives. If you find that Bloom’s taxonomy
+doesn’t fit how you think about your subject, you may prefer to
+create a set of learning outcomes.
+What is a learning outcome? A more modern term, “learning
+outcome” refers to a statement in your own words of how
+your students will demonstrate that they have mastered the
+material.
+A learning outcome for a class on automotive fuel gauges
+might read like this: After completing the chapter on fuel
+systems, the successful student will work with a project group
+whose task it will be to prepare a five-minute class presentation
+on the various types of fuel gauges, how they function, and the
+strengths and weaknesses of each design.
+A learning outcome can be phrased in any way that makes
+sense to you and communicates the learning intentions to you,
+your students and your administrator.
+Now it’s your turn: On page 10 you will find the first planning
+form, designed to help you sit down with your textbook and
+syllabus and create a set of learning objectives based on Bloom’s
+taxonomy of thinking skill levels.
+The goal here is to ensure that you create learning objectives
+at the higher levels of thinking skills. Without this planning
+8
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+
+sheet, and referring to Bloom’s levels, you will have a tendency to
+create learning goals at the lowest levels, such as knowledge and
+comprehension, thus depriving your students of development at
+the higher thinking levels of learning.
+The chart you’ll find on the next page illustrates how to use
+Bloom’s taxonomy of thinking skills to create learning objectives
+for a typical concept-centered class—and what better class to
+use as an example than a class covering Teaching For Success
+concepts?
+First, browse through the examples (in red type) at each
+level and note how simple and concise learning objectives can
+be. Space is provided at the top of the form to write a general
+learning or, if you like, performance objective for a single class
+session or unit of instruction.
+Then, subordinate objectives can be created at as many
+specific thinking skill levels as is appropriate to the content,
+as demonstrated in this example. A blank copy of this form is
+provided for you to print according to your needs in the Lesson
+Plan Template section at the end of this course.
+If this form is not to your liking, take a few minutes and create
+a form that better supports the way you think and work. The
+important point here is to stress the advantages of working
+with learning objectives and guard against any tendency to go
+overboard with too much complexity.
+The bottom line, use Bloom’s taxonomy to create learning
+objectives that ensure students learn and practice at the highest
+levels of thinking skills in each topic.
+
+T
+
+E. Afterword
+
+hings should be made as simple as possible but no simpler.
+				
+Einstein
+
+9
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+TFS Lesson Planning Form 1: Create Thinking-Level Learning Goals (Objectives)
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+
+Lesson Number: 1.1
+
+Class Date: 1/18/05
+
+EXAMPLE
+
+Page 1 of 17
+
+Lesson or Chapter Title: Teaching for Success—Introduction
+
+Write the General Lesson Objective (Goal or Outcome)—The student will build a fundamental understanding
+of teaching and learning in higher education. The principle of critical success factors will be introduced
+and the student will be challenged to apply the concept to the learner’s role.
+
+3. Being Objective
+4. Thinking Like Bloom?
+
+Thinking level
+
+What students do
+
+Knowledge
+
+Name, describe, select,
+define, match, state, etc.
+
+Define “Teaching” and “Learning.”
+Define “Success.”
+
+Comprehension
+
+Summarize, explain,
+provide examples, predict,
+estimate.
+
+Provide an example of teaching for success.
+
+Application
+
+Solve problems, construct
+charts, demonstrate usage.
+
+Construct a chart of critical success factors applicable to college teaching.
+
+Analysis
+
+Divide, distinguish
+categorize, infer, separate.
+
+Distinguish between teaching and learning.
+
+Synthesis
+
+Combine, revise, organize,
+create new perspective.
+
+Create a new perspective by combining critical success factor of teaching with accelerated learning principles.
+
+Evaluation
+
+Judge, prioritize, value,
+evaluate, conclude, design
+approach
+
+Judge the value of using critical success factors as component of good teaching.
+
+5. An Engaging Format.
+6. Boxed in.
+
+Describe exactly what students will do to demonstrate mastery at the thinking skill level indicated.
+
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+10
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+5
+
+An Engaging Format
+
+A
+
+t the very least, the format
+you choose should have a
+logical sequence of components
+that provide your students with
+the activities and resources they
+need for optimum learning results.
+
+A
+
+learning outcome of this QuickCourse
+should be for you to finish with an easyto-use lesson planning format with an optimal learning structure
+and an understanding of how to fill out each section. In order
+to realize this goal, you will benefit from considering a unique
+lesson format recommended by Teaching For Success.
+The lesson format you ultimately select should be the one
+that helps you easily prepare and organize each lesson, and the
+one that is most effective in helping your students achieve their
+learning goals.
+At the very least, the format you choose should have a logical
+sequence of components that provide your students with the
+activities and resources they need for optimum learning results.
+An important question to consider when selecting a lesson
+plan format is this: are you the one responsible for specifying the
+content and sequence of learning in your course? If you’re not
+responsible, you may be required to use lesson plans that have
+been created by another instructor. Or, you may be expected to
+rely totally on a textbook to specify all learning activities.
+If either of these latter cases applies to you, don’t quit now,
+because this QuickCourse can provide you with valuable insights
+into the future design and organization of effective lessons.
+But whatever your teaching situation, the bottom line with
+lesson planning is this: plan on paper! Then you can make
+changes and improvements and communicate what’s happening
+in your course to all involved. Donald Greive (1998) makes this
+
+observation: “The format for the lesson plan may vary. Probably the
+only thing universally agreed upon is that the lesson plan should
+be written down. It should have a definite purpose indicating the
+main thoughts for the lesson, and it should be numbered and
+arranged as part of the total plan for the course” (p. 23).
+Because so much has been discovered about the teaching and
+learning process during the past decade, it’s well worth your time
+to take an in-depth look at the six-part teaching and learning
+system adapted from the recommendations offered by Colin Rose
+as a handbook, Accelerated Learning Action Guide, published by
+Nightingale-Conant (Niles, IL).
+This action guide accompanies the “Accelerated Learning
+Techniques” audio learning program also sold by NightingaleConant. For more information on obtaining this excellent
+program, call Nightingale-Conant at 880-323-5552.
+TFS recommends this resource purely on the quality of the
+ideas presented and not because we have any business relationship
+with this company.
+At TFS, we have adapted this model of personal learning to the
+classroom setting and have called it the PIE-R3 model, pronounced
+“pie-R-cubed” for easy memorization. The next chapter will
+explain this lesson format and its components in detail.
+
+11
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+6
+
+Boxed in
+
+T
+
+wo good inside-the-box questions are: can these steps be
+accomplished in any order and
+can a step be deleted or skipped?
+Ideally you should go through
+each step in the lesson sequence
+in order, but there are always exceptions. You are the ultimate
+decision maker. .
+
+S
+
+ometimes thinking within the box is helpful when
+you are learning the basics of a new concept.
+That said, it’s time to explain each of the steps in this accelerated
+lesson format in detail. Again, these lesson steps are discussed in the
+sequence that they would be presented to students.
+Two good questions are: Can these steps be accomplished in any
+order? And, can a step be deleted or skipped? Ideally you should go
+through each step in the lesson sequence in order. However, there
+are always special teaching circumstances that call for innovation
+and change. But unless there is a good reason for deviation, you
+should strive to present each of the following steps:
+ Prepare—Begin lesson planning with the end in
+mind, and devote time to learning warm-ups—this
+will save you and your students time.
+ Input—Present the content in visual, auditory, and
+hands-on learning experiences; teaching genius means
+knowing how to reduce the complex to a simple yet
+accurate expression of the same knowledge—for
+example, E=mc2. Be sure students formulate questions
+they are interested in answering.
+ Explore—Your students learn the most in the least
+time when they are encouraged to explore the material
+using their preferred learning styles, intelligence sets,
+and modes of expression.
+ Recall—Learning retention is significantly increased
+when students personalize and emotionalize the
+material.
+
+ Retain—Teach self-testing—the best students know
+the value of reviewing early and often and self-testing
+their knowledge and skill acquisitions.
+ Reflect—Both instructor and learner must constantly
+gather performance observations, and then reflect
+on improvement action steps.
+An easy way to remember the steps in this lesson model is to
+remember the formula for the area of a circle, A=∏r2. Changing
+that common formula slightly to the mnemonic PIE-R3 will help
+you remember the sequence of instructional events. This system is
+built on the learners’ needs. It endeavors to provide in sequence the
+learning activities that make the most instructional sense:
+ Prepare.
+ Input.
+ Explore.
+ Retain.
+ Reconfirm.
+ Reflect.
+Lets look now at the details of each of the PIE-R3 lesson-plan
+steps. A good rule of thumb in lesson planning is to use Albert
+Einstein’s planning principal, “Everything should be made as
+simple as possible, but not simpler.”
+
+12
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+
+Prepare: PIE-RRR
+Preparing to learn is the natural, common-sense starting point
+of learning, and therefore should be the first teaching activity. But
+it’s a step too often ignored in the hurry to cover as much material
+as possible in each class meeting. The PIE-R3 learning model begins
+with the preparation phase because it’s crucial for good teaching
+and optimized learning.
+Accelerated learning experts contend that taking time to
+prepare to learn increases the rate of learning by two to three
+times. Skipping this vital step only slows and hampers learning in
+the long run and is very expensive in terms of increased time to
+learn and lowering “Learning Return On Energy” (LROE).
+This is the point in your class planning to think about how you
+can encourage your students to arrive on time. If the first order of
+business in your class is to take attendance, return assignments,
+hand out new study sheets, announce the date of the next unit
+test, and remind students there will be no class meeting next
+Monday because of a holiday, you have failed to provide any
+activities designed to prepare students to learn the lesson.
+
+Repeating confidence-building assertions before starting a study session, such as, “I’m a terrific learner.” It
+works wonders in keeping energy high.
+ Adopting strict time-management practices—such
+as working on the most difficult learning task first.
+ Maintaining peak levels of self-motivation by suggesting students set some post-class rewards such as
+enjoying a coffee break, instant messaging a friend or
+shopping for the latest music releases on-line.
+
+
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Preparation activities
+
+Some possible activities that creatively prepare students for
+new learning include:
+ Creating a positive, expectant attitude of successful
+learning and learning outcomes.
+ Forming and maintaining a creative, relaxed, resourceful mindset with brief meditation, imaging, or breathing exercise breaks.
+ Writing learning goals and reviewing these before
+each study session.
+
+Input: PIE-RRR
+After you’ve helped your students prepare to learn, move up
+to the second rung in the lesson ladder, input.
+Accelerated learning gurus such as Colin Rose suggest that
+multisensory input is a crucial component of good instruction.
+A fundamental precept of accelerated learning is this: The
+more senses that are involved in the learning, the more rapid
+and memorable the learning will be, and the more quickly the
+specified learning outcome can be achieved.
+13
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+T
+
+o achieve multisensory input,
+a good lesson design should
+be more than a traditional lecture,
+and it should encompass some
+active learning concepts to engage
+the minds of the students more effectively than a lengthy lecture.
+
+Let’s consider a student who completes several of the
+recommended Preparation steps. This student is now more
+relaxed, focused, motivated, and ready to learn.
+But, now what? Sure, it might be easiest from your point of view
+to plan a traditional lecture for the entire class period, but how many
+senses will be engaged? How will the students participate?
+Activating the input stage
+
+To achieve multisensory input, a good lesson design should
+be more than a traditional lecture, and it should encompass
+some or all of the following concepts:
+ Connect the subject to the learner in terms of
+students’ prior experience, current academic skills,
+and learning goals.
+ Pose tough questions and point up debates, dilemmas,
+and dichotomies inherent in your subject area.
+ Provide applications, applications, applications—
+overcome the “I’ll-never-use-that” syndrome; make
+learning concrete, practical, useful.
+ Picture the problem or concept; challenge students to
+portray the idea visually—use metaphors; ask, “If this
+concept were a famous painting, which one would it
+be and why?”
+ Convert the concept or problem you are studying to
+one of the other senses: ask students, “What would
+this feel, taste, or sound like?”
+ Take a kinesthetic learning break—ask a multiplechoice survey question—one about which you know
+students will have a range of opinions; then ask students
+to quickly get up from their seats and stand in a line by
+the choice they prefer; a human chart results.
+
+
+
+Websites and commercial media outlets provide a
+wealth of audio and video material, and today you
+can burn your own audio CD-ROM and even produce
+excellent amateur video presentations—Apple’s iDVD
+program makes producing videos an enjoyable task.
+
+How to organize knowledge
+
+Students need structure, variety, challenge, application, and
+activity. There are five common ways to structure knowledge for
+presentation during the input stage of the lesson. It would be a good
+idea to memorize these so you have them instantly recallable:
+ Complexity—simple to intricate.
+ Age—forward or reverse chronological order.
+ Distance—near to far.
+ Solidity—concrete to abstract.
+ View—big picture to details.
+Use one or more of these structures to make multisensory
+input follow a meaningful pattern. Too many instructors fail to
+choose a logical approach. This lack results in their students complaining about the difficulty of learning the material. To help all
+your students learn more quickly and retain more course content, shape your teaching so that students have the opportunity
+to see, hear, and use the core facts, principles, and concepts central to your course.
+14
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Exploration: PIE-RRR
+Exploration is the term used to describe the customtailoring and personalization necessary for effective learning.
+When exploration is planned into a lesson, learning becomes
+accelerated, fun, authentic, and effective.
+Learning outcomes are more readily reached when you help
+your students personally explore the landscape of new material
+through their various intelligence sets, rather than in lock-step,
+mono-mode, learning activities.
+Explorers of all types usually have a say in how they plan to reach
+their destination, and so should your learners in the exploration
+stage. Your students need coaching and an opportunity to have
+their learning problems diagnosed, rather than having a content
+expert tell them everything they need to know. They thrive on
+learning choices; not everyone needs to take the same exploratory
+learning path.
+Your students will feel put off and alienated if you only
+present material in one intelligence mode, such as linguistic, or
+one sensory mode, such as audio. Traditional teaching assumes
+everyone learns the same way and pure lecture is good enough
+for everyone.
+
+I
+
+n addition to teaching content, you should design a
+range of challenging lessons and
+assignments to help learners
+explore the material in a manner consistent with their special
+weave of intelligences.
+
+exercises needed to build specific physical skill. A skilled physical
+trainer or coach can analyze one’s current physical skill level and
+create a program to move her or him to a new level of adroitness
+and competence.
+The same process works in cognitive learning. The teacher as
+coach assesses the current level of each student’s academic skill
+and then creates an activity program to optimize learning.
+Therefore, in addition to teaching content you should design
+a range of challenging lessons and assignments to help learners
+explore the material in a manner consistent with their special
+weave of intelligences.
+You can use Dr. Gardner’s intelligence categories as a guide to
+planning a wider variety of lesson content that will reach more
+students:
+Multiple intelligences?
+ Linguistic.
+According to the theory championed by Dr. Howard Gardner
+ Mathematical/Logical.
+of Harvard University in his Frames of Mind: The Theory of Multiple
+ Visual/Spatial.
+Intelligences, (1985) students learn better when they explore a
+ Musical.
+subject using multiple intelligences.
+ Interpersonal.
+For example, when working on one’s physical development,
+ Intrapersonal.
+a person cannot rapidly develop without employing the best
+ Body/Movement.
+ Naturalist.
+
+15
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+
+Besides recognizing multiple intelligences, you can improve
+the Exploration phase of learning by asking your students to:
+ Identify assumptions.
+ Discern the evidence of credibility.
+ Create metaphorical visuals and examples.
+ Focus on what’s important.
+ Select and solve key problems.
+
+r
+
+etention tip
+
+Though eschewed by many educators, there is still a great
+need for learning how to rapidly and accurately memorize
+definitions, facts, formulas, and procedures. For some tips
+in this area we recommend The Memory Bible by Gary Small,
+M.D.
+Dr. Small recommends using the look, snap, and connect
+memorization system. Briefly, “Look” means to carefully
+observe the thing to be remembered. Note the details: color,
+shape texture, smell, weight, etc.
+Next, “Snap” is a series of mental pictures of the object or
+data to be remembered. Snapping a colorful, detailed, and
+vivid mental image will improve the likelihood of recalling it
+later. Keep in mind that the more wild and fanciful the snapshot image, the easier it is to remember.
+Lastly, “Connect” the images with a story that correctly
+sequences the snapshots and makes them easily recallable.
+Optionally, you can create a single visual that contains all the
+snapshots in a meaningful pattern, or create an acronym to
+remember the first letter of the title of each snap. Why not
+teach your students to look, snap and connect?
+
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Retain: PIE-RRR
+Modern brain research confirms what outstanding teachers
+have known all along: learning retention takes place when the
+material is relevant and meaningful, processed by many senses,
+and emotionally stirring. A good lesson plan answers the question:
+How can I ensure that students will retain the material long after
+the class is over?
+Effective study—that which is meaningful, concise, an
+success-oriented—is the key to establishing excellent recall. To
+maximize recall, students need to have the following components
+incorporated into each lesson:
+ Adequate practice with improvement feedback from
+the instructor; for example, homework assignments
+evaluated and returned with improvement
+suggestions listed.
+ Personalization of the content—an opportunity
+to take knowledge apart, reassemble it, and then
+express it in one’s own thoughts and terms.
+ Time and encouragement to express doubt and
+direct questions to learning peers, the instructor, and
+real-world practitioners.
+
+16
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Visualization of the content by creating charts, graphs,
+and symbols.
+ Emotionalizing the content by acting out learning
+concepts using the elements of basic theater.
+ The experience of accomplishment by comparing
+learning goals to learning achievement.
+
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Homework length and complexity issues
+
+Homework is essential to learning, and should be a part of your
+lesson plan. You may feel the expectation from yourself, other
+instructors, and your students to assign a hefty amount. But how
+much homework is optimal? Here are some points about homework to consider when developing a lesson plan:
+ Length—the time an average student is expected to
+spend to complete the assignment; don’t give more
+practice problems than needed.
+ Difficulty—each practice assignment should include
+easy, medium, difficult, and challenging problems.
+ Context—are the practice activities meaningful? Are
+they in terms that connect with the students’ reality
+in some way?
+ Feedback—how will student responses and answers
+be critiqued and improvement suggestions be transmitted to them?
+ Variety—does the assignment give the student a
+thorough workout of all mental muscles?
+Gagné, Briggs and Wagner, in their Principles of Instructional
+Design, stress adding variety to homework and in-class practice sessions to help students apply knowledge to new situations or retain
+and transfer learning from the classroom to the real world.
+
+H
+
+omework is essential to learning, and should be a part of your lesson plan. You
+may feel the expectation from yourself, other instructors, and your students to
+assign a hefty amount. But how much homework is optimal? Simulations and realworld case problems often provide needed practice in critical thinking.
+
+17
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Reconfirm: PIE-RRR
+All students must periodically reconfirm what they have
+learned in order to transfer the new knowledge and skills into
+long-term cognitive and muscle memory, depending of the type
+of learning involved. Here are some specific, active reconfirmation
+strategies that you can build into your lesson plan to help your
+“A” students learn faster, your “B” students become “A” students,
+and your “C,” “D,” and “F” students improve.
+Reconfirmation activities require discipline and effective
+study skills that some students master early in their academic
+career while others struggle into their college years before it all
+comes together for them. The misguided study goal for many
+students is to complete the assigned work as soon as possible.
+However, just completing the work does not necessarily
+lead to retention. The most important retention technique for
+underachieving students to learn is adopting a regular review
+schedule both in and out of class. Adequate review time and
+activities must comprise part of your lesson plan.
+Most poor students fail to review often enough. Here’s a very
+effective pattern that will produce terrific results. For maximum
+retention, students should review after:
+❑ One hour.
+❑ One day.
+❑ One week.
+❑ One month.
+❑ End of course.
+Teaching your underperforming students how to review is as
+important as providing them with time to review. One of the
+simplest yet most powerful strategies is to ensure students verbalize learning in their own words.
+
+R
+
+econfirmation activities
+require discipline and effective study skills that some
+students master early in their
+academic career and some
+struggle into their college years
+before it all comes together for
+them.
+
+At home, they can even record these explanations on audio
+tape or digitally as a computer sound file. Then, they can add music
+(classical works best but this musical style may not be the favorite
+of your students) to another track. Finally, if they play this voicemusic recording when relaxed before sleeping or upon rising, they
+will tap both sides of the brain and review is accelerated.
+In addition, have your students list comparisons—another
+dynamic active review. They first make a list of the main points,
+writing them in their own words. Then, they study them for a
+short time, put the list away and attempt to recreate this list
+from memory. A comparison of the two lists will quickly reveal
+what they’ve missed. This list comparison process continues until
+the original and final lists match perfectly.
+The ultimate purpose of this Reconfirmation stage in your
+lesson is for students to “show they know,” validating mastery
+of skills, knowledge, and attitudes. To this end, you should also
+provide in your lesson plan test reviews and practice tests to
+prepare students for a graded exam.
+Here are three more instructional principles that go to work in
+the well-designed Reconfirmation step in an A+ Lesson Plan:
+q Outstanding students achieve more because they
+continually reconfirm their subject mastery.
+
+18
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+U
+
+nfortunately, the Reflect
+step in teaching and learning is often just as neglected in
+the rush to cover the material
+and call it a day. Reflection is
+the sixth, last and most crucial
+phase of the PIE-R3 model.
+
+q Struggling students, on the other hand, may fail
+because they haven’t developed good self-test skills.
+q To assist your students, help them make self-testing a
+priority, unbreakable habit during learning .
+At the bottom line, your lesson plan must have a stage where
+proof of learning is confirmed by a written test, oral exam, evaluation
+of a practical demonstration, log, journal, paper, project, or learning
+summary. Give students an chance to show they know.
+
+A second Reflection step is completed when you create an
+ongoing self-reflection Success Contract. Such a contract results
+from answering the following questions:
+❑ The most important thing I learned about teaching
+or learning is					
+.
+❑ I will apply what I have discovered to my next learning
+activity, class meeting, unit, or course by		
+.
+❑ When I encounter obstacles, I will overcome them
+by							
+.
+❑ I will track my results by­				
+.
+❑ If I need assistance to reach my goals, I will seek
+assistance from (person) or consult this reference or
+resource 							
+.
+❑ I will reward myself by
+when I reach my goal!
+As Arturo Toscanini, the noted Italian symphonic and operatic
+conductor, once wrote, “Nobody knows what is the best he can
+do.” When you regularly stop to reflect and generate a modified
+lesson plan from the old one, you teach for success, and great
+improvement is possible.
+Now you have at least two lesson formats to pick from, or
+you may choose a format that blends well with your own training
+and experience. But do pick a format you will use routinely.
+
+Reflect: PIE-RRR
+At TFS, we modify the adage, “If you can’t measure it, you
+can’t manage it,” to read, “If you don’t reflect on it, you won’t
+improve it.” Reflection is the sixth, last, and most crucial phase
+of the PIE-R3 model. Unfortunately, the Reflect step in teaching
+and learning is often just as neglected in the rush to cover the
+material and call it a day. In the face of demanding schedules
+some instructors decide that this is a step that can be easily left
+for the odd moment.
+However, for you to improve your teaching via an A+ Lesson
+Plan and for your students to improve their learning skills, it’s
+imperative that you and they reflect on what has or has not been
+accomplished in the last unit, chapter, class meeting, or learning
+activity before proceeding to the next topic.
+Be sure to add the following two-question thought exercise—
+step one of an effective Reflection learning event—at the
+conclusion of each lesson you plan. Using a computer or pad of
+paper, prepare a two-column sheet. Head the columns with the
+following questions:
+❑ What went well? (Reflect)
+❑ What could I have done better? (Correct)
+
+19
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+7
+
+T
+
+Reality Check
+
+he A+ Lesson Plan is one that
+communicates very clearly
+to you and to your students the
+intended
+specific
+learning
+objective(s) or outcome(s), and
+the strategy and resources you
+will employ to help learners reach
+the stated goal(s).
+
+B
+
+efore going on, let’s look at reality. The
+perfect A+ Lesson Plan is not one that
+creates the perfect lesson. Teaching and learning is part art
+and part science, and when the variables are factored in for a
+group of students from one class to the next, you will find that a
+lesson that works beautifully one term may cause confusion and
+exasperation among a new group of students the very next time
+the lesson is taught.
+The steps of the PIE-R3 lesson format we have discussed are
+available in a table format you can print and refer to during the
+rest of this course, and to use for actual lesson planning at the end
+of this course. Click here to see these tables now.
+The A+ Lesson Plan is one that communicates very clearly to you
+and to your students the intended specific learning objective(s)
+or outcome(s), and the strategy and resources you will employ to
+help learners reach the stated goal(s). Also, the A+ plan is one that
+meshes well with the preceding and succeeding lessons to form
+an organized set of lessons that will form the successful course.
+An A+ Lesson Plan retains flexibility and states some back-ups
+or alternatives and some instant feedback processes that can be
+used to receive immediate feedback from students on the lessons’
+actual effectiveness. (See Classroom Assessment Techniques by
+Thomas Angelo and K. Patricia Cross.)
+More about topics
+A standardized departmental course outline may include lists
+of objectives or a general topic list, often in chronological order.
+
+If there is no standard course outline or topic list, review
+course objectives. Develop a chronological list of general topics
+to be addressed in order to achieve each objective.
+For example, a speech or composition departmental topic
+of “Purpose” precedes “Organizational Principles” and follows
+“Topic Selection.” Without a topic, a purpose cannot be
+considered. Until students formulate purposes, decisions about
+organizational presentation cannot be made.
+List specific topics necessary to an understanding of each
+general topic. One or more specific topics comprise a lesson,
+and more than one lesson may be required to explain a general
+topic.
+Lesson plan topics are what will be presented during a class
+meeting in a single planning block of time. One-hour or 50-minute
+planning blocks are convenient beginnings, since the shortest
+classes generally fit this time frame.
+Another way to look at a topic is knowledge-based rather
+than time-based. For example, a topic could be the smallest
+coherent piece of knowledge that answers a question, provides
+a procedure to solve a problem, or allows two or more previous
+topics to be synthesized into a larger whole.
+
+20
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Time is of the essence
+In traditional models of instruction, time is of the essence and is
+held fixed. Achievement standards are variable—a student may pass
+with any grade from a D to an A. If you teach in a mastery learning
+institution, time is made flexible and mastery standards are fixed.
+When lesson planning to fit the classic model of instruction,
+consider carefully the time actually required for presenting and
+learning. In one case a topic may require an average of 30 minutes,
+yet another requires only 10 minutes. A single topic, or a series of
+topics, may be considered during one class meeting.
+Chronologically, list the topics that are necessary for
+developing an understanding of the general topic. To do this,
+figure out which topic is prerequisite to another.
+For example, an understanding of specific purposes must
+be established before thesis statements are discussed. Thesis
+statements identify what an audience must understand in order
+to achieve a purpose. Thus, student understanding of specific
+purpose is prerequisite to thesis statements.
+Assign each lesson plan a sequence number. Use text chapters,
+course objectives, or competencies. Numerically, identify the
+general topics with a number and assign each lesson a sequence
+number, i.e., 4:1, 4:2, and 4:3, where 4 is the general topic and
+the following numbers are individual lesson blocks. Textbook
+chapters or competency numbers are advisable when instructing
+multiple sections of varying lengths.
+Finally, write a lesson headline or title to advertise the lesson
+in a course calendar. Be creative. Which title stimulates your
+thinking: “Purpose” or “Determining Your Purpose”? Make your
+titles fit the personal interests of your students.
+
+W
+
+ith great lesson plans and intelligent teaching and learning activities, you
+can be part of the success story of each of your students!
+
+21
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+8
+
+Preparation and Input
+
+Y
+
+ou have a problem when
+students ask themselves,
+“Why should I listen and participate in this class session?”
+Designing lucid, meaningful lessons that connect with learners
+is the answer to this tough
+teaching challenge.
+
+Y
+
+ou have a problem when students ask
+themselves, “Why should I listen and participate in this class session?” Therefore, lesson introductions or
+advance organizers should be constructed to answer the following question from the students’ point of view: “What is the value
+of today’s lesson for me?” This is the purpose of the Preparation
+component, the first step of any lesson.
+So what can you do to overcome student doubt and lack of
+interest? Try one or more of the following to gain attention and
+better prepare your students to learn:
+q Open with a startling fact, question, or issue designed
+to capture the audience’s attention.
+q Ask an overt-response question to gauge their
+knowledge, experience, or attitudes about the coming
+topic, or pose a rhetorical question that invites
+thought and mental engagement.
+q Emotionally, relate a short story to establish a specific
+mood conducive to student involvement in a portion
+of the topic to be studied, or relate a quotation (with
+feeling) from a familiar source to capture the essence
+of the lesson.
+q Chronicle a personal experience to your students to
+illustrate some aspect of the lesson for the day. This
+technique also demonstrates a personal expertise and
+knowledge of the topic. Thus, students know what
+they learn comes from a reliable source.
+
+Prepare by connecting
+We all listen for personal benefit, especially in a class. Therefore, prove the relevance of your class by relating:
+q Generally, how this lesson applies beyond passing an
+examination.
+q Specifically, when and how this knowledge or skill will
+affect their lives in the future.
+You may find it effective to connect your lesson’s objective
+to one or more of Maslow’s five categories of human needs:
+survival, safety, belonging, esteem, and self-actualization.
+Determine which of these needs most closely correlates with
+lesson outcomes. Also, consider all the possible family, social,
+educational, community, and professional contexts that can be
+connected to the present, past, or future lesson outcomes.
+Input styles
+One aspect of the Input phase of a lesson that is sometime
+overlooked is the students’ preferred learning style. Students
+usually prefer to learn by one of three methods of encountering
+new material:
+q Verbal­—hearing.
+q Visual—seeing.
+q Kinesthetic—touching and manipulating.
+22
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+There are tests that can be given to help determine the learning style of each student, but this is often impractical for you to
+accomplish in the already jam-packed college course. The best
+solution is to plan to teach using all three modes of learning.
+Analyze the content of your course to determine how you can
+introduce new knowledge visually, auditorily, and by a hands-on
+approach. By carefully mixing all three learning modes in your
+classes, you will be offering something in the preferred style of
+all your students. Ensuring that you offer many kinds of learning
+activities will greatly enhance and speed learning.
+
+C
+
+ase Study Presentations include an introduction of a
+case by the instructor with questions-and-answers. This is often
+followed by a in-depth discussion.
+
+Lecture
+Probably the first method that comes to mind when you
+think about how to introduce new knowledge during a lesson is
+to lecture. Today, lectures range from the traditional, formal lecture (instructor talks and the students take notes) to the more
+modern and interactive style lecture that makes use of small
+group discussions and other processes. For more details on new
+lecture techniques and strategies, see the TFS QuickCourse,
+“How to Activate Your Lectures.”
+
+interests and attention to the subject under study. Demonstrations require preparation to ensure they proceed without glitches
+and interruptions from equipment problems. Demonstration can
+also be virtual using multimedia equipment.
+Laboratory Sessions and Field Trips may follow lecture or
+include lecture during the session or trip. They often include ongoing question-and-answer investigations. This method bridges
+lecture and group-learning techniques. Students may work
+together in pairs or small teams to gain hands-on experience in
+a laboratory or shop. Field trips bring the energy of new learning
+environment and the chance to see, feel, smell, and touch the
+subject as it applies to real-world situations.
+
+More involvement and action
+Case Study Presentations include presentation of a case by
+the instructor with questions and answers; this is often followed
+by small group analysis and discussions. This approach provides
+opportunities to examine theory in relation to an actual event,
+while combining lecture and discussion features. Groups of students may examine a case report and discuss the group’s observations in a classroom discussion.
+Demonstrations are variations of the more informal, question-and-answer-based lecture. Demonstrations draw students‘
+
+Groups
+Class Discussion, the most basic form of group discussion,
+requires careful planning to be a success. Initiating classroom discussion requires careful formulation of thought-provoking, objective questions, an understanding of questioning techniques, and
+the communication of the purpose and benefits of the discussion
+to the students. Group learning can be accomplished by breaking your class down into active learning units. For great ideas on
+managing small groups, see the TFS QuickCourse, “Making Small
+Group Learning Work.”
+23
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+L
+
+aboratory sessions and
+field trips may follow
+lecture or include lecture during the session or trip. They
+often include on-going question-and-answer investigations.
+
+Implementing group learning will allow more students to
+become actively involved, encourage reticent students to participate, and pool more experience and ideas. Small groups may complete their learning task, then relate their findings to the class.
+Want more? Additional group possibilities, as discussed by
+Neff and Weimer (1989), are:
+q Brainstorming generates ideas, information, or solutions in short, specific amounts of time.
+q Buzz Groups are usually 3-5 members who meet in
+class for 10-15 minutes, discuss a single question, and
+report their findings to the entire class. The primary
+feature is the short amount of time.
+q Case Study is a written document about a real problem that a student studies. A guide is supplied the
+student, usually with a list of suggested reading. After
+one or two weeks of analysis, students present findings and analysis for group discussion. A written
+paper accompanies the presentation.
+q Concentric Circles place a small circle of participants
+inside a large circle. The inner circle discusses a topic
+while the outer group listens. The discussion roles
+then reverse.
+q Debate/Discussion uses pro-and-con participants
+who consider a controversial subject. The goal is to
+convince the audience, not attack the opponent.
+q Panel/Discussion is a small group discussing an idea
+among themselves, in front of the class, who then
+join in later.
+q Phillips 66 uses six people who discuss their views,
+opinions, or experiences on a topic for 6 minutes.
+
+q Picture-Making Groups highlight a principle or idea
+related to a topic by drawing a simple sketch on a
+board or large piece of paper to illustrate the group’s
+thinking.
+q Reverse Thinking assigns group members opposite
+views from their own for discussion purposes.
+q Role-Play is the spontaneous acting out of a situation,
+after which there is a discussion of situation context
+and underlying feelings.
+q Symposium/Discussion includes breaking a topic down
+into parts, presented in brief speeches by members
+of the group. After the speeches, a class discussion is
+used.
+q Seminars are best suited for small classes of 10-15
+students and have small-group and individual-based
+learning dimensions. Each student specializes in one
+area of a broad subject. Reading is assigned, reports
+are written, and students present their analysis to the
+entire group. Copies of each paper often accompany
+a presentation. The instructor serves as the “expert”
+and guides discussion.
+
+24
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+9
+
+H
+
+Effective Explorations
+
+ow would you devise a series
+of explorations of such a
+simple yet so complex idea as the
+relationship between matter and
+energy? How could this concept be
+studied using all seven ways of
+knowing? Be sure to write your approaches into your lesson plans.
+
+L
+
+earning
+explorations
+should
+be
+personalized, exciting, and diverse so
+that students can apply their learning skills most effectively
+to the subject at hand. Therefore, the heart of any lesson is an
+intelligent, creative offering of learning activities best suited to
+producing the learning objectives you specify and making the
+learning personal to each student. In short, you need a variety of
+ways to help learners explore each topic for themselves.
+In addition, planning for a variety of exploration activities is beneficial because each requires the use of different cognitive or thinking abilities, often referred to as “ways
+of knowing” (Lazear, 1991). Exploration activities usually
+concentrate or accentuate one or more ways of knowing.
+The eight ways of knowing are :
+q Verbal/linguistic, encompassing written and spoken
+words, memory, and recall.
+q Logical/mathematical, knowing includes reasoning,
+abstractions, and relationships.
+q Visual/spatial, including acute visualization, mental
+imagining, graphics, and manipulation of space.
+q Body/kinesthetic, relating to bodily movement and
+mime activities.
+q Musical/rhythmic, entailing sensitivity to sounds,
+tones, and rhythms.
+q Interpersonal, encompassing effectiveness in interpersonal and group verbal and nonverbal communication.
+q Intrapersonal, involving a sense of self, awareness of
+
+feelings, and the ability to concentrate.
+q Naturalist, understands nature, relates to collecting,
+categorizing things and studying plant parts.
+Here are some quick ideas to jog your learning exploration
+creativity:
+q Read a speech and analyze its reasoning in a minipaper or small-group discussion.
+q View a video of the speech and analyze its influence
+on your thinking and attitude; then identify the key
+images, messages, and sounds that made the most
+lasting impression and explain why.
+q Discuss in small groups the relationship between
+the structural elements of a movie clip; listen for the
+actors’ vocal rhythm patterns; mark sections that contained key body movements supporting or detracting
+from the character’s message; explore congruency of
+verbal and nonverbal messages in different passages.
+q Evaluate the effectiveness of a media clip.
+q Ask each small group to quickly create an ad in 10 minutes that attempts to sell a specific point of view of
+a controversial issue just presented in a lecture; then
+have each group act out the ad while the other groups
+analyze the message and identify its point of view.
+Compare original intent with actual perception.
+25
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+10
+
+Pedal to the Metal
+
+L
+
+earning can indeed be accelerated by a range of fascinating techniques. Creating A+
+Lesson Plans is an important
+first step to making time spent
+on learning more efficient and
+enjoyable for you and your students. Beware of the nay sayers
+who are convinced that it can’t
+be done and therefore never try.
+
+L
+
+earning accelerators refer to the entire range
+of resources that help students achieve lesson
+objectives. These are not methods or techniques, but tools
+chosen to clarify and simplify the content of a presentation,
+activity, or lesson topic.
+Today’s instructors aren’t expected to be the comprehensive
+source of knowledge for their classes. You don’t have to know
+everything there is to know about the body of knowledge that you
+teach. However, you must decide how best to use the knowledge
+resources available to you and your students. Knowledge resources
+that teachers and students share in common are the textbook,
+the institution’s library collection, public media, and the Internet.
+Knowledge sources that are unique to you are your education,
+work, and life experiences. Likewise, students bring their previous
+education, work, and life experiences to their current learning
+endeavors. Part of building an A+ Lesson Plan is selecting the most
+effective set of knowledge resources available to make learning as
+rapid, memorable, and meaningful as possible.
+Osborn and Osborn (2000, p.247) observe that “presentation
+aids [visual, audio, and concrete objects] give your audience sensory
+contact with your message—words simply represent objects and
+ideas.” Modifying a phrase on a board to demonstrate alliteration
+or playing a selection of bluegrass music to demonstrate the
+contribution of a mandolin are richer learning experiences than
+hearing a verbal explanation alone. Osborn and Osborn (2000,
+p.248) noted these benefits, in particular:
+
+“Presentation aids enhance understanding; they are better
+than words at conveying meaning. Presentation aids add variety
+to sustain interest and attention.” In addition, aids can create
+a lasting impression and assist recall. As shortcuts to better
+learning, these materials can make long, complicated explanations
+unnecessary.
+Choosing good aids will accelerate learning for your students
+because these materials involve more of the students’ senses
+and intelligences in the learning process. And anything that
+accelerates learning is well worth the time and effort that goes
+into the selection, preparation, and display of these materials.
+So the bottom line here is to analyze each learning objective
+you create to see if there are one or more aids that could
+accelerate learning. If you decide there are materials available,
+describe the aid you will need in your lesson plan. Having each
+aid listed will jog your memory as you review your lesson plan
+before each class.
+Types of learning aids
+With the wonderful variety of media equipment and
+information resources available today, you have the rather fun
+and pleasurable job of matching learning aids to the learning task
+26
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+at hand. Being able to see, hear, smell, feel, and manipulate an
+object speeds learning. Let’s look at a brief list of the common
+learning aids used to enhance the Input and Exploration phases
+of a lesson.
+Live Demonstration: Instructor demonstration of a process,
+action, procedure, or object can be a simple yet powerful
+instructional methodology. Our brains are naturally hot-wired
+to learn from watching others do things; sounds, colors, odors,
+textures, stimulate the senses and provide memory links.
+3-D Models: These work well as presentation aids when the
+object is too large, rare, dangerous, valuable, or fragile to have
+in the classroom. Or, a live model may be appropriate when the
+subject is a study of movement, as in sports, dance and acting.
+2-D Graphic Presentation Aids: include maps, charts, sketches,
+and graphs. Maps illustrate movements, boundaries, and
+relationships. Charts illustrate organizational hierarchy, steps
+in a process, periods, or visual representations of a projection.
+Sketches are useful when simplified representations are sufficient.
+Finally, graphs illustrate proportions or relationships.
+White boards: The modern chalkboard is best suited for
+brief writing of crucial phrases, terms, equations, formulae, and
+sketches. Information requiring more time to present is best
+presented using another medium perhaps computer projection.
+Caution: while writing or drawing, turn periodically and talk with
+eye contact to your students, not the board.
+Flip charts: Although low-tech, they are quick, easy to prepare,
+use, and modify on the fly while teaching. Complex concepts can
+also be presented using a series of flip-chart pages. In combination
+with an easel, flip charts are particularly useful when a class meets
+in a remote location that does not have Internet access or media
+equipment available.
+
+Presentation Projectors: The modern equivalent of the old
+slide and overhead projectors. These projectors are great for
+displaying videos, images or computer data on a screen or other
+flat surface. Entire presentations can be created and stored on a
+flash drive, and shown on stand alone projector system. Caution:
+repetitive use of PowerPoint type slide presentations can reduce
+their effectiveness as a learning tool.
+Smart Boards (Electronic White Board) Interfaced with a
+computer and Internet, you can write notes, draw, manipulate
+images, etc., save electronically, print or email to students.
+Audio Clips and Podcasts: Easy to store and use, MP3 audio
+files and players provide the means to examine sounds or
+patterns, hear famous speeches, interviews, music and natural
+and computer-generated sounds. Faculty can easily record
+lectures and make them available as podcasts.
+Computer-assisted Presentations: These require a range of
+computer skills to produce and may require extensive time and
+resources to complete, or they may consist of internet videos
+and flash animations easily downloaded and ready to use in a
+class presentation. You can Google Video titles or search for
+appropriates clips on YouTube. Computer-assisted presentations
+do, however, offer great flexibility and teaching power especially
+in technology, health, science, math, and engineering courses.
+Sometimes the most overlooked learning opportunity comes
+at the end of each class session. Research shows recall peaks at
+this time. What can you do to take advantage of this fact? The
+next chapter will give you a unique idea worth remembering.
+
+27
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+11
+
+Clinging to the Cliff
+
+S
+
+peeches and class sessions should not end flatly
+with a “That’s all, folks,” or “I’m done for today.”
+Studies prove that retention actually goes up at the end of
+the class session. The beginning and end times of a lesson are
+extremely valuable in terms of learning and recall, so plan the
+end of each lesson with positive intention and thoughtful strategy. Next, let’s look at some effective ways to end a lesson including our personal favorite, the Cliff Hanger.
+Summarize, connect, apply
+Summarize the main points of the lesson. Connect the lesson
+just concluded with the next lesson by pointing out relationships
+and an application to a real-world problem.
+Short and simple
+Your final words should stay with the students, and remind
+them of their next assignment. Planning a lasting impression can
+supply a sense of closure. Here are some tips:
+q Stories reinforce and are often remembered long
+after facts are forgotten.
+q Quotations capture the essence of your message.
+q Rhetorical questions invite further thought.
+q Challenge the students to apply the day’s lesson.
+
+T
+
+he beginning and end
+times of a lesson are extremely valuable in terms of
+learning and recall; so, let’s look
+at some effective ways to end a
+lesson which include my personal favorite, the Cliff Hanger.
+
+Brings ’em back every time
+Here’s a novel idea that won first prize in a Teaching For Success
+Super Ideas Contest. It was written by Howard Rosenthal, Ed D,
+a professor and Human Services program coordinator, St. Louis
+Community College at Florissant, St. Louis in Missouri. This idea
+was first published in Teaching For Success, August 2001 edition.
+Dr. Rosenthal explains how to keep attendance high with his
+unique and very effective class-closing method.
+The impetus to share this highly effective technique dawned on me after an unusually bright student
+approached me. I had just completed my last class on
+a Friday and my student said, “Darn it. You did it to us
+again.”
+“Did what?” I asked with total sincerity.
+“You always leave us with some sort of cliff-hanger
+lecture or class experience that intrigues us so that we
+have to come back to the next class.
+“It’s sort of like when you go to a movie and you
+don’t want leave before the ending. Now I’ll need to
+wait the entire weekend to find out what happens.”
+I merely smiled.
+Many teachers do roughly the opposite of what I
+am going to suggest herein. For example, an instructor might end a typical lecture with, “Okay, now that
+28
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+I’ve covered the material related to World War I, I’ll
+begin talking about World War II in our next class.”
+While this strategy is certainly acceptable, I believe
+that you can often generate massive motivation by
+not giving your students the punch line until the next
+class period. This is no small feat in terms of today’s
+problems with class retention and attendance.
+Newscasters routinely use this strategy. Here are
+some of the cliff-hanger statements that I heard as I
+watched my local news last evening: “If you think that
+eating fruits and vegetables is healthy just wait until
+you hear the results of an amazing new study.”
+Of course, a commercial break follows that statement. (Yes, I’m not immune to the powers of this strategy, hence, I stayed tuned like I’m certain thousands of
+other viewers—many of whom are students—did!)
+The final words I encountered prior to the next
+commercial were, “Don’t even think about heading out to the ballpark until you hear what Sam the
+weatherman says is in store for us tonight.”
+Here are just a few actual examples of cliff-hangers
+that I’ve used recently:
+ When you return on Monday, I’m going to tell
+you precisely how one of our students was able to
+snare a salary that was over $6,000 a year higher
+than what was advertised in the paper.
+ Next time we meet I’m going to tell you about an
+extraordinary discovery that suggests that Freud
+changed his entire theory so he would be accepted
+by his colleagues.
+
+The most powerful cliff-hangers are those that personally affect the student (e.g., the salary or the testing), though to be sure, this is not always possible.
+End your class with a cliff-hanger and watch your
+attendance soar.
+
+L
+
+earning should be and, yes, must be exciting, like discovering the sights, sounds,
+and smells of a new city. The landscape of any subject holds fascination for the
+learner, and it’s up to the innovative instructor to unlock the doors to the enjoyment of new learning for as many students as possible.
+
+29
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+12
+
+End in Sight
+
+T
+
+he end is in sight. But don’t
+stop now. Take a look at the
+Lesson Plan Template, this template is designed to save you time
+while making the job of organizing a lesson as painless as possible. Feel free to print copies of
+these templates as needed for
+your use or design your own.
+
+E
+
+valuation is a major part of each
+lesson plan. Be sure to identify
+assessment measures you can use to gauge student achievement
+of the lesson objective(s). Assessment measures may be tests,
+papers, projects, performances, class participation, etc. Choice
+of an assessment measure is best accomplished by linking each
+measure to a lesson objective.
+Remember, a lesson objective points to a thinking skill level
+the student should attain. Bloom observed that objectives relating to content mastery are not all on the same level.
+As you recall from Chapter Three, objectives based on knowledge range from an elementary level (recall words, facts, dates,
+etc.) to the most complex level, evaluation (making critical judgements based on internal and external criteria). The words chosen
+to identify the behavior in each objective suggest the level of
+knowledge required and the appropriate assessment measure.
+The ability to list, identify, or define relates to the most elementary and concrete thinking levels. Be sure to go beyond these
+levels. Tests or performance challenges that ask the students to
+discriminate among causes or specific results or to combine, justify, or criticize a concept, process, or principle should be included
+and are the most appropriate assessment measures to check for
+critical thinking.
+As an instructor, you are accountable for achieving the teaching
+and learning outcomes you accept as reasonable goals. To achieve
+this you will need to evaluate your progress continually, as well as
+that of your students. Be sure to build this strategy into your plans.
+
+L T
+
+esson Plan Templates
+
+he more time you spend on lesson preparation the first time you design and
+teach a course, the less preparation time you will need to teach
+the same course in the future. With the basic lessons, in place
+your preparation time can be devoted to lesson improvement.
+Depending on the number of course hours, complete plans
+can range from 12 to 24 pages for a one-hour-per-week course
+and 30 to 60 pages for a three- to four-hour-per-week course.
+Store your plans either in a three-ring binder or in a common
+and easy-to-read computer document format, such as MS Word
+or Adobe Acrobat, in a public access folder on your computer.
+Your plans should be easy to locate so that in the event you
+cannot continue teaching the course, you can provide the new
+instructor with a set of your plans to make the process of taking
+over for you easier.
+
+30
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Appendix A: Objectives Template
+TFS Lesson Planning Form 1: Creating Thinking-Level Learning Goals (Objectives)
+Chapters (Click to Go)
+1. What’s in It for Me?
+
+Lesson Number:
+
+Class Date:
+
+Lesson or Chapter Title:
+
+Page ____ of_____
+
+Write the General Lesson Objective (Goal or Outcome)—the student will:
+
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+
+Thinking level
+
+What students do
+
+Knowledge
+
+Name, describe, select,
+define, match, state, etc.
+
+Comprehension
+
+Summarize, explain,
+provide examples, predict,
+estimate.
+
+Application
+
+Solve problems, construct
+chart, demonstrate usage.
+
+Analysis
+
+Divide, distinguish
+categories, infer, separate.
+
+Synthesis
+
+Combine, revise, organize,
+create new perspectives
+
+Describe exactly what students will do to demonstrate mastery at the thinking skill level indicated.
+
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Evaluation
+
+Judge, prioritize, value,
+evaluate, conclude, design
+approaches
+
+31
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Appendix B: Lesson Plan Template
+
+TFS® Class Meeting Activity Planning Form
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+
+Course
+
+Lesson Number
+
+Date/Day
+
+Time
+
+Text Chapter/Sections
+
+Instructional Resources
+q Handouts
+q Equipment
+q Guests invited
+q Tests/Quizzes
+q Supplements
+q References
+
+Course Management Tasks
+Institutional announcements.
+Homework assignments.
+Others (list.)
+
+Learning Objectives or Outcomes:
+
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+
+Section I. Prepare—5-10% of total class time (i.e. 2.5 to 5 min. of a 50-minute class meeting)
+Goals:
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Gain attention.
+
+A. Objectives Template
+B. Lesson Plan Template
+
+Learning mindset preparation.
+
+C. Knowledge Test
+D. References
+E. Afterword
+
+Connections to previous learning
+(brief review)..
+Attendance/paper return/quiz.
+
+32
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Section II. Input New Material
+Goals:
+Chapters (Click to Go)
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Present Topic 1.
+
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+
+Present Topic 2.
+
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+
+Present Topic 3.
+
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+
+Section III. Explore
+Explore Topic 1.
+
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+
+Explore Topic 2.
+
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+
+Explore Topic 3.
+
+E. Afterword
+
+33
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Section VI. Retain
+Chapters (Click to Go)
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Strategy—What method will you use to accomplish goal?
+
+Learning Activities—What will students do?
+
+Retain Topic 1.
+
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+
+Retain Topic 2.
+
+3. Being Objective
+4. Thinking Like Bloom?
+
+Retain Topic 3.
+
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+
+Section V. Recall
+Recall of Topic 1.
+
+8. Preparation and Input
+9. Effective Explorations
+
+Recall of Topic 2.
+
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+
+Recall of Topic 3.
+
+12. End in Sight
+Appendix
+A. Objectives Template
+
+Section VI. Reflect
+Reflect on learning session (all
+topics).
+
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+Section VI. The Cliff Hanger Exit Strategy—What will you use to inspire and motivate students
+to return to the next class meeting prepared to learn?
+Teaser topic to boost attendance
+and interest in next session.
+
+34
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Appendix C: Knowledge Test
+
+S
+
+how You Know
+
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+
+6. True or False Learning objectives are created after learning activities are
+chosen.
+
+1. The goal of this course is to provide you with:
+
+A. Course and lesson planning tools.
+B. Tools to make better tests.
+C. A set of teaching goals and objectives.
+D. A four-step, traditional lesson sequence.
+
+7. Complete the quote from Albert Einstein that provides an excellent rule of
+thumb for good lesson planning. “Things should be…
+							
+								
+								
+
+2. Why bother with lesson plans?
+
+A. Lesson plans require goal setting.
+B. Lesson plans maximize your return on energy.
+C. Lesson plans help your students achieve their learning goals.
+D. All of the above.
+
+8. Match the type of learning to its correct definition.
+
+A. Cognitive—Feelings; Affective—Thinking; Psychomotor—Physical
+B. Affective—Feelings; Cognitive—Physical; Psychomotor—Thinking
+C. Psychomotor—Feelings; Cognitive—Physical; Affective—Physical
+D. Psychomotor—Physical; Affective—Feelings; Cognitive—Thinking
+
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+3. What documents do you need to have before you begin lesson planning?
+A. Course catalog and class schedule.
+B. Course outline and syllabus.
+C. Campus directory and website index.
+D. Student disciplinary policy and state instructional codes.
+
+9. If you asked your students to revise, organize, and create a new perspective,
+they would be working at the ________ level of thinking.
+A. Comprehension
+B. Synthesis
+C. Evaluation
+D. Knowledge
+
+4. According to Bloom’s taxonomy, which of the cognitive skill groups below is
+arranged in the correct order from least complex to most complex?
+A. Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation.
+B. Knowledge, Application, Comprehension, Analysis, Synthesis, Evaluation.
+C. Comprehension, Knowledge, Application, Analysis, Synthesis, Evaluation.
+D. Analysis, Synthesis, Evaluation, Comprehension, Application Knowledge.
+
+10. The first letter in the PIE-R3 lesson format stands for			
+
+.
+
+11. The second “R” component of the PIE-R3 lesson format stands for		
+
+.
+
+A. Propose
+B. Prompt
+C. Postulate
+D. Prepare
+
+5. At the Comprehension level of cognition, which mental task might a student
+be expected to do?
+A. Define.
+B. Demonstrate.
+C. Estimate.
+D. Subdivide.
+
+A. Retain
+B. Reconfirm
+C. Reflect
+D. Reorganize
+
+35
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+12. During the Input phase of a PIE-R3 lesson, you would do which of the following?
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+
+A. Relax and reorient your students to the new learning task at hand.
+B. Provide practice sessions where students can apply new knowledge.
+C. Review and test recall of new content.
+D. Involve students using as many of their senses as possible as they
+are introduced to new knowledge.
+
+Click on the yellow to display answers
+
+13. When you personalize the content and present students with an opportunity to
+take knowledge apart, reassemble it, and then express it in their own thoughts
+and terms, you are most likely in what phase of a PIE-R3 lesson sequence.
+____
+A. Exploration.
+B. Retain.
+C. Reconfirm.
+D. Reflect.
+
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+14. When is a “Cliff Hanger” employed during a lesson?
+
+A. Any time during the Preparation component.
+B. At the end of the Input section.
+C. At the beginning of the Recall phase.
+D. At the end of class session.
+
+15. What is your ultimate responsibility as an instructor?
+
+A. Reaching the teaching and learning outcomes you specified in
+your lesson plans.
+B. Taking attendance at each class meeting.
+C. Keeping regular office hours.
+D. Creating Web pages that supplement the textbook for each of
+your courses.
+
+How did you do?
+
+My raw score is:		
+:
+Number of correct answers out of 15 possible			
+My percentage is:		
+(number correct divided by 15.)
+
+.
+
+36
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Appendix D: References
+					
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+R
+
+eferences
+
+Angelo, Thomas A. and Cross, K. Patricia. Classroom Assessment Techniques. San Francisco: Jossey-Bass Inc., 1993.
+Bloom, Benjamin S., Max D. Engelhart, Edward J. Furst, W. H. Hill, and David R. Krathwohl, eds. Taxonomy of Educational
+Objectives: The Classification of Educational Goals. Handbook I, Cognitive Domain (1st ed.). New York: David McKay,
+1956.
+Frye, Bill J. “Instructional Resources for College Courses.” Teaching In College: A Resource for College Teachers. Ed. Bill J. Frye.
+Elyria, OH: Info-Tec, 1994.
+Gardner, Howard. Frames of Mind: The theory of multiple intelligences, New York: Basic Books, 1983; 1993.
+Gagne, Robert M., Briggs, Leslie J., Wager, Walter W. Principles of Instructional Design. Orlando, Harcourt Brace Jovanovich
+College Publishers: 1992.
+Greive, Donald. A Handbook for Adjunct/Part-Time Faculty and Teachers of Adults. Elyria, OH: Info-Tec, 1995.
+Greive, Donald. Teaching Strategies & Techniques for Adjunct Faculty. Elyria, OH: Info-Tec, 1998.
+Lazear, David. Seven Ways of Knowing: Understanding Multiple Intelligences (2nd ed.). Palatine, IL: Skylight Publishing, 1991.
+Maslow, Abraham H. Motivation and Personality. New York: Harper and Row, 1970.
+Neff, Rose Ann, and Maryellen Weimer. Classroom Communication: Collected Readings for Effective Discussion and Questioning. Madison: Magna Publications, 1989.
+Nichols, James O. The Departmental Guide to Implementation of Student Outcomes Assessment and Institutional Effectiveness. New York: Agathon Press, 1991.
+Osborn, Michael, and Suzanne Osborn. Public Speaking (5th ed.). Boston: Houghton Mifflin, 2000.
+Pregent, Richard. Charting Your Course: How to Prepare to Teach More Effectively. Madison, WI: Magna Publications, 1994.
+Rose, Collin. Accelerated Learning Action Guide. Niles, IL: Nightingale-Conant, 1995.
+Weimer, Maryellen, Joan L. Parrett, and Mary-Margaret Kerns. How Am I Teaching: Forms and Activities for Acquiring
+Instructional Input. Madison, WI: Magna Publications, 1988.
+
+37
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+A TFS QuickCourse
+How to Create A Lesson Plan that Works
+Appendix E: Afterword
+Chapters (Click to Go)
+1. What’s in It for Me?
+2. Plans?—Why Bother?
+3. Being Objective
+4. Thinking Like Bloom?
+5. An Engaging Format.
+6. Boxed in.
+7. Reality Check
+8. Preparation and Input
+9. Effective Explorations
+10. Pedal to The Metal
+11. Clinging to The Cliff.
+12. End in Sight
+Appendix
+A. Objectives Template
+B. Lesson Plan Template
+C. Knowledge Test
+D. References
+E. Afterword
+
+A
+
+T
+
+eaching For Success is dedicated
+to the unsung and very difficult
+work of teaching in higher education
+today. Whether a full-time or adjunct instructor, I’ve been there in the
+trenches doing what you do and
+coping with the challenges you face
+everyday. TFS is my unique solution,
+and I hope it works for you too!
+—Jack H. Shrawder
+Publisher
+
+fterword
+
+W
+
+e at Teaching For Success wish you much success
+in your teaching and hope that we have passed
+on to you some valuable and practical knowledge that will make
+all of your lessons a success and your course praised by your
+students and peers alike. Look for more Teaching For Success
+Quick Studies titles coming soon! We are confident that your
+students will appreciate the work you have put into planning and
+implementing TFS Successful Lesson Plans for their benefit.
+This QuickCourse is designed to work with the Teaching
+For Success Bimonthly E-Journal and is licensed to subscribing
+institutions for distribution to faculty. TFS QuickCourses are
+sold only to schools, college, universities, or businesses with
+a unlimited distribution and duplication license for their
+employees. For more information, call 505-891-9528 or go to
+teachingforsuccess.com.
+Additional TFS QuickCourses® and QuickStudies®
+To help you learn new skills and make teaching easier and
+more pleasant, try these QuickCourse/Studies titles:
+ Ensuring Quality Testing
+ Positive Classroom Discipline
+ Creating Active Lectures­
+ Constructing an A+ Syllabus­
+ Making Small Group Learning Work
+q Sexual Harassment in the Academic Setting
+
+Contact and feedback information
+TFS QuickCourses™ are created by Teaching For Success® and
+Pentronics Publishing, 524 7th St. NE, Rio Rancho, NM Jack H.
+Shrawder, publisher and editor. Contact: Jack at T4S@TheGrid.Net or
+call 505-891-9528. Also, find more information on the Teaching For
+Success E-Journal of Critical Success Factor Teaching Improvement
+and other Member E-library resources at: teachingforsuccess.com.
+Your comments and improvement suggestions are always
+welcome. To keep up with new ideas in discipline and other
+crucial areas of good teaching, ask your faculty developer or
+top-level administrator to continue to purchase a TFS College
+Membership for you and your college. For more information on
+how to subscribe, or to submit an article to Teaching for Success,
+go to http://teachingforsuccess.com.
+Thank you for your interest in teaching improvement and
+Teaching For Success. Teaching For Success is an exciting lifelong
+adventure in personal growth and self-discipline. Improving
+oneself is not easy; it takes patience and perseverance at the
+utmost. But the journey into self-mastery is well worth the price
+in satisfaction of excellent service rendered to others.
+			
+—John H. (Jack) Shrawder, Publisher		
+38
+
+©Pentronics Publishing 2010: teachingforsuccess.com
+
+
